@@ -1,0 +1,390 @@
+freqpos +u +f +g@PCDI_nouns_full.cut *.cha
+Sun Mar 15 15:10:58 2020
+freqpos (09-Feb-2020) is conducting analyses on:
+  ALL speaker tiers
+****************************************
+From file <bb011001.cha>
+From file <bb011013.cha>
+From file <bb011105.cha>
+From file <bb011130.cha>
+From file <bb020113.cha>
+From file <bb020207.cha>
+From file <bb020302.cha>
+From file <cx011009.cha>
+From file <cx011106.cha>
+From file <cx011108.cha>
+From file <cx011120.cha>
+From file <cx020018.cha>
+From file <hy010828.cha>
+From file <hy011000.cha>
+From file <hy011009.cha>
+From file <hy011105.cha>
+From file <hy011121.cha>
+From file <hy020004.cha>
+From file <lc010921.cha>
+From file <lc011005.cha>
+From file <lc011019.cha>
+From file <lc011113.cha>
+From file <lc020012.cha>
+From file <lc020119.cha>
+From file <lc020205.cha>
+From file <ll010906.cha>
+From file <ll010920.cha>
+From file <ll011003.cha>
+From file <ll011017.cha>
+From file <ll011028.cha>
+From file <ll020001.cha>
+From file <ll020027.cha>
+From file <ll020127.cha>
+From file <lxb010903.cha>
+From file <lxb010915.cha>
+From file <lxb011011.cha>
+From file <lxb011020.cha>
+From file <lxb011024.cha>
+From file <lxb011109.cha>
+From file <lxb020000.cha>
+From file <lxb020015.cha>
+From file <lxb020109.cha>
+From file <tt010903.cha>
+From file <tt010915.cha>
+From file <tt010930.cha>
+From file <tt011030.cha>
+From file <tt011128.cha>
+From file <tt020028.cha>
+From file <tt020122.cha>
+From file <ww011028.cha>
+From file <ww011113.cha>
+From file <ww011130.cha>
+From file <ww020024.cha>
+From file <ww020105.cha>
+From file <ww020120.cha>
+From file <ww020210.cha>
+From file <ww020304.cha>
+From file <wx010927.cha>
+From file <wx011010.cha>
+From file <wx011020.cha>
+From file <wx011118.cha>
+From file <wx020026.cha>
+From file <wx020104.cha>
+From file <wx020120.cha>
+From file <wx022618.cha>
+From file <yy011020.cha>
+From file <yy011104.cha>
+From file <yy011105.cha>
+From file <yy011117.cha>
+From file <yy020000.cha>
+From file <yy020025.cha>
+From file <yy020119.cha>
+From file <yy020218.cha>
+1169  a1yi2                initial =331, final =138, other =626, one word = 74
+601  ba4ba                initial =165, final = 68, other =265, one word =103
+  9  bai2cai4             initial =  0, final =  2, other =  4, one word =  3
+ 13  ban1ma3              initial =  1, final =  4, other =  2, one word =  6
+158  bao1                 initial = 29, final = 42, other = 76, one word = 11
+ 34  bao1zi               initial =  2, final = 18, other = 14, one word =  0
+365  bao3bao              initial =137, final = 75, other =103, one word = 50
+ 12  bao4zhi3             initial =  1, final =  2, other =  6, one word =  3
+ 14  bei1zi               initial =  4, final =  3, other =  5, one word =  2
+  6  bei4zi               initial =  0, final =  3, other =  3, one word =  0
+ 47  bi2zi                initial =  9, final = 12, other = 21, one word =  5
+310  bi3                  initial = 29, final =100, other =165, one word = 16
+ 60  biao3                initial =  2, final = 19, other = 26, one word = 13
+  3  bing1ji1ling2        initial =  0, final =  1, other =  0, one word =  2
+  1  bing1qi2ling2        initial =  1, final =  0, other =  0, one word =  0
+ 28  bing1xiang1          initial =  2, final =  8, other = 13, one word =  5
+ 13  bing3                initial =  1, final =  5, other =  5, one word =  2
+ 13  bing3gan1            initial =  0, final =  3, other = 10, one word =  0
+  1  bo1cai4              initial =  0, final =  1, other =  0, one word =  0
+  1  bo2bo                initial =  0, final =  1, other =  0, one word =  0
+ 14  bo2zi                initial =  3, final =  0, other = 10, one word =  1
+ 63  cai4                 initial =  5, final = 17, other = 40, one word =  1
+ 37  cao3                 initial =  1, final = 17, other = 13, one word =  6
+  7  ce4suo3              initial =  5, final =  0, other =  2, one word =  0
+ 13  cha2                 initial =  4, final =  2, other =  6, one word =  1
+  1  cha2bei1             initial =  0, final =  0, other =  0, one word =  1
+  5  chan3zi              initial =  0, final =  0, other =  5, one word =  0
+  8  chang2jing3lu4       initial =  1, final =  3, other =  0, one word =  4
+1371  che1                 initial = 97, final =540, other =682, one word = 52
+ 20  chong2zi             initial =  3, final =  1, other = 16, one word =  0
+ 11  chu2fang2            initial =  6, final =  1, other =  4, one word =  0
+ 33  chuan2               initial =  2, final = 14, other = 13, one word =  4
+ 10  chuang1hu            initial =  0, final =  5, other =  4, one word =  1
+ 45  chuang2              initial =  2, final =  7, other = 33, one word =  3
+  5  chui2zi              initial =  0, final =  1, other =  2, one word =  2
+  2  cong1                initial =  0, final =  0, other =  1, one word =  1
+ 10  cu4                  initial =  0, final =  6, other =  2, one word =  2
+ 11  da4ma1               initial =  0, final =  1, other = 10, one word =  0
+  1  da4xiang4            initial =  0, final =  0, other =  0, one word =  1
+  2  da4yi1               initial =  0, final =  1, other =  0, one word =  1
+  3  dai4fu               initial =  0, final =  0, other =  3, one word =  0
+  6  dan1wei4             initial =  1, final =  0, other =  5, one word =  0
+ 15  dan4                 initial =  4, final =  3, other =  6, one word =  2
+  2  dan4gao1             initial =  0, final =  0, other =  2, one word =  0
+ 28  dao1                 initial =  8, final =  8, other = 10, one word =  2
+ 56  deng4zi              initial =  1, final = 18, other = 33, one word =  4
+ 54  di4di                initial =  6, final = 10, other = 35, one word =  3
+ 33  dian4chi2            initial =  0, final =  7, other = 23, one word =  3
+109  dian4hua4            initial =  3, final = 38, other = 60, one word =  8
+  7  dian4shan4           initial =  0, final =  2, other =  3, one word =  2
+ 68  dian4shi4            initial =  6, final = 16, other = 40, one word =  6
+  1  dian4ti1             initial =  0, final =  0, other =  1, one word =  0
+  3  diao4che1            initial =  0, final =  0, other =  2, one word =  1
+ 70  dong1xi              initial =  0, final = 36, other = 33, one word =  1
+ 13  dong4wu4             initial =  0, final =  9, other =  3, one word =  1
+  6  dong4wu4yuan2        initial =  0, final =  1, other =  4, one word =  1
+  4  dou4fu               initial =  0, final =  2, other =  1, one word =  1
+  1  dou4zi               initial =  0, final =  1, other =  0, one word =  0
+ 11  du4zi                initial =  4, final =  0, other =  7, one word =  0
+  1  dun1bu4              initial =  0, final =  0, other =  1, one word =  0
+ 14  e2                   initial =  3, final =  5, other =  4, one word =  2
+  6  e4yu2                initial =  0, final =  3, other =  3, one word =  0
+414  fan4                 initial = 11, final = 97, other =304, one word =  2
+ 18  fang2zi              initial =  1, final =  7, other =  8, one word =  2
+156  fei1ji1              initial = 11, final = 94, other = 27, one word = 24
+  6  fei2zao4             initial =  0, final =  5, other =  1, one word =  0
+110  feng1                initial = 10, final = 27, other = 70, one word =  3
+ 13  gang1qin2            initial =  2, final =  6, other =  1, one word =  4
+470  ge1                  initial =154, final = 69, other =236, one word = 11
+  8  ge1bo                initial =  0, final =  1, other =  7, one word =  0
+198  ge1ge                initial = 39, final = 38, other =108, one word = 13
+ 14  ge1zi                initial =  3, final =  5, other =  6, one word =  0
+ 76  gong1gong4qi4che1    initial = 11, final = 18, other = 28, one word = 19
+  4  gong1yuan2           initial =  0, final =  1, other =  3, one word =  0
+ 65  gou3                 initial =  9, final = 14, other = 34, one word =  8
+ 24  gu1gu                initial =  9, final =  2, other = 11, one word =  2
+ 35  gu2lu                initial =  2, final = 14, other = 15, one word =  4
+ 29  gu4shi4              initial =  1, final = 12, other = 15, one word =  1
+ 48  gua1                 initial = 13, final =  8, other = 25, one word =  2
+  1  gua1zi3              initial =  0, final =  0, other =  0, one word =  1
+  1  gun4zi               initial =  0, final =  1, other =  0, one word =  0
+ 26  guo1                 initial =  7, final =  9, other =  7, one word =  3
+223  hai2zi               initial =  7, final = 87, other =128, one word =  1
+  1  he2tao               initial =  0, final =  0, other =  1, one word =  0
+  8  he2zi                initial =  0, final =  2, other =  5, one word =  1
+ 18  hou2zi               initial =  3, final =  6, other =  8, one word =  1
+ 13  hu2die2              initial =  0, final =  4, other =  1, one word =  8
+ 92  hua1                 initial = 11, final = 29, other = 46, one word =  6
+  1  hua1sheng1           initial =  0, final =  0, other =  1, one word =  0
+  3  hua1yuan2            initial =  1, final =  1, other =  1, one word =  0
+ 34  hua2ti1              initial =  2, final = 11, other =  6, one word = 15
+1199  hua4                 initial =205, final =306, other =676, one word = 12
+219  huo3che1             initial = 31, final = 66, other = 98, one word = 24
+ 56  ji1mu4               initial =  9, final = 13, other = 21, one word = 13
+  1  ji2pu3               initial =  0, final =  0, other =  0, one word =  1
+ 11  ji2pu3che1           initial =  0, final =  1, other =  7, one word =  3
+488  jia1                 initial = 27, final = 91, other =356, one word = 14
+  5  jian3dao1            initial =  1, final =  1, other =  0, one word =  3
+  4  jiang4you2           initial =  0, final =  1, other =  1, one word =  2
+109  jiao3                initial = 25, final = 31, other = 49, one word =  4
+ 12  jiao3zi              initial =  2, final =  6, other =  3, one word =  1
+  1  jie1dao4             initial =  1, final =  0, other =  0, one word =  0
+144  jie3jie              initial = 19, final = 24, other = 85, one word = 16
+ 29  jing3cha2            initial =  9, final =  4, other = 16, one word =  0
+ 24  jing4zi              initial =  1, final =  7, other = 16, one word =  0
+ 15  jiu4hu4che1          initial =  1, final =  6, other =  1, one word =  7
+ 43  jiu4jiu              initial =  8, final = 10, other = 18, one word =  7
+ 54  ju2zi                initial =  6, final = 20, other = 24, one word =  4
+152  ka3che1              initial = 13, final = 53, other = 49, one word = 37
+  3  ke3le4               initial =  0, final =  3, other =  0, one word =  0
+  7  kong3que4            initial =  0, final =  6, other =  0, one word =  1
+ 13  kou3                 initial =  0, final = 10, other =  3, one word =  0
+  2  kou3dai4             initial =  0, final =  1, other =  1, one word =  0
+  5  kou4zi               initial =  1, final =  0, other =  4, one word =  0
+  1  ku4cha3              initial =  0, final =  0, other =  1, one word =  0
+ 60  ku4zi                initial =  5, final = 14, other = 37, one word =  4
+ 10  kuai4zi              initial =  0, final =  7, other =  3, one word =  0
+  3  la1ji1               initial =  0, final =  0, other =  3, one word =  0
+  7  la1lian4             initial =  0, final =  1, other =  6, one word =  0
+  7  la4bi3               initial =  0, final =  3, other =  3, one word =  1
+ 18  la4jiao1             initial =  0, final =  9, other =  9, one word =  0
+ 28  lang2                initial =  2, final = 13, other =  9, one word =  4
+ 46  lao3hu3              initial =  4, final = 20, other = 20, one word =  2
+ 68  lao3lao              initial = 22, final =  3, other = 33, one word = 10
+ 33  lao3shi1             initial = 12, final =  2, other = 19, one word =  0
+ 19  lao3shu3             initial =  2, final =  8, other =  7, one word =  2
+  6  lao3ye               initial =  4, final =  0, other =  2, one word =  0
+  7  lao3ying1            initial =  4, final =  0, other =  1, one word =  2
+ 70  li2                  initial = 13, final = 15, other = 36, one word =  6
+  1  li3wu4               initial =  0, final =  0, other =  1, one word =  0
+ 53  lian3                initial =  5, final = 15, other = 33, one word =  0
+  4  liang2xie2           initial =  0, final =  2, other =  2, one word =  0
+  5  ling2dang1           initial =  0, final =  5, other =  0, one word =  0
+ 11  long2                initial =  2, final =  3, other =  4, one word =  2
+  2  lou2ti1              initial =  0, final =  0, other =  2, one word =  0
+  6  lu2zi                initial =  0, final =  1, other =  3, one word =  2
+133  lu4                  initial = 34, final = 18, other = 77, one word =  4
+ 15  lu4yin1ji1           initial =  1, final =  4, other =  4, one word =  6
+ 13  luo2bo               initial =  2, final =  3, other =  7, one word =  1
+  6  luo4tuo              initial =  0, final =  4, other =  1, one word =  1
+  3  luo4tuo2             initial =  0, final =  2, other =  1, one word =  0
+  2  ma1bu4               initial =  1, final =  1, other =  0, one word =  0
+1295  ma1ma                initial =457, final =119, other =528, one word =191
+ 13  man2tou              initial =  1, final =  4, other =  7, one word =  1
+101  mao1                 initial =  9, final = 31, other = 49, one word = 12
+  4  mao1tou2ying1        initial =  0, final =  1, other =  1, one word =  2
+  7  mao2jin1             initial =  0, final =  0, other =  7, one word =  0
+  2  mao2ku4              initial =  0, final =  0, other =  2, one word =  0
+  5  mao2yi1              initial =  1, final =  1, other =  3, one word =  0
+ 22  mao4zi               initial =  2, final =  4, other = 15, one word =  1
+  2  mei2qi4              initial =  0, final =  0, other =  2, one word =  0
+ 82  mei4mei              initial = 17, final = 12, other = 50, one word =  3
+151  men2                 initial = 10, final = 48, other = 87, one word =  6
+ 24  mi3                  initial =  5, final =  7, other =  8, one word =  4
+ 36  mi3lao3shu3          initial = 15, final =  3, other = 13, one word =  5
+  6  mian2ao3             initial =  0, final =  1, other =  5, one word =  0
+ 10  mian4                initial =  0, final =  5, other =  5, one word =  0
+  6  mian4bao1            initial =  1, final =  2, other =  3, one word =  0
+ 10  mian4tiao2           initial =  1, final =  1, other =  8, one word =  0
+  1  mo2gu                initial =  0, final =  1, other =  0, one word =  0
+  1  mo2tuo               initial =  0, final =  1, other =  0, one word =  0
+ 54  mo2tuo1che1          initial = 14, final = 14, other = 17, one word =  9
+ 14  mu4tou               initial =  1, final =  4, other =  6, one word =  3
+296  nai3nai              initial = 75, final = 41, other =127, one word = 53
+ 13  nao3dai              initial =  0, final =  3, other =  9, one word =  1
+ 22  nao3dai4             initial =  3, final =  3, other = 16, one word =  0
+131  niao3                initial = 17, final = 49, other = 55, one word = 10
+ 74  niu2                 initial = 17, final = 25, other = 16, one word = 16
+  3  nuan3hu2             initial =  0, final =  1, other =  2, one word =  0
+  2  nuan3shui3ping2      initial =  0, final =  2, other =  0, one word =  0
+ 10  pan2                 initial =  2, final =  1, other =  7, one word =  0
+  2  pan2zi               initial =  0, final =  1, other =  1, one word =  0
+ 14  pen2                 initial =  2, final =  4, other =  8, one word =  0
+ 12  pi2dai4              initial =  0, final =  3, other =  9, one word =  0
+ 54  pi4gu                initial =  4, final = 21, other = 29, one word =  0
+  9  pi4gu3               initial =  2, final =  0, other =  7, one word =  0
+ 50  ping2guo3            initial =  2, final = 25, other = 15, one word =  8
+ 14  ping2zi              initial =  2, final =  1, other = 10, one word =  1
+ 14  pu2tao               initial =  1, final =  3, other =  3, one word =  7
+  3  qi3e2                initial =  0, final =  0, other =  0, one word =  3
+ 54  qi4qiu2              initial =  8, final =  9, other = 31, one word =  6
+  1  qi4shui3             initial =  0, final =  1, other =  0, one word =  0
+ 31  qian1bi3             initial =  8, final =  8, other =  6, one word =  9
+121  qian2                initial = 13, final = 25, other = 82, one word =  1
+  8  qian2bao1            initial =  2, final =  2, other =  2, one word =  2
+125  qiang1               initial = 11, final = 49, other = 56, one word =  9
+  8  qiao3ke1li4          initial =  1, final =  0, other =  4, one word =  3
+  4  qiao3ke4li4          initial =  0, final =  3, other =  0, one word =  1
+ 55  qin2                 initial =  6, final = 19, other = 19, one word = 11
+ 16  qing1ting2           initial =  3, final =  3, other =  4, one word =  6
+ 45  qing1wa1             initial =  8, final = 10, other = 19, one word =  8
+333  qiu2                 initial = 26, final =135, other =133, one word = 39
+  5  qun2zi               initial =  0, final =  3, other =  1, one word =  1
+351  ren2                 initial = 37, final = 87, other =211, one word = 16
+ 59  rou4                 initial =  2, final = 19, other = 32, one word =  6
+ 20  san3                 initial =  3, final =  6, other =  5, one word =  6
+ 34  sha1fa1              initial =  2, final = 10, other = 19, one word =  3
+ 38  shan1                initial =  4, final =  3, other = 27, one word =  4
+  2  shan4zi              initial =  0, final =  1, other =  1, one word =  0
+  5  shang1dian4          initial =  1, final =  1, other =  3, one word =  0
+  2  shang4yi1            initial =  0, final =  1, other =  0, one word =  1
+ 26  shao2                initial =  1, final = 10, other = 13, one word =  2
+ 16  she2                 initial =  4, final =  6, other =  5, one word =  1
+  1  she2tou              initial =  0, final =  1, other =  0, one word =  0
+  2  sheng2               initial =  0, final =  1, other =  1, one word =  0
+  1  shengr               initial =  0, final =  0, other =  1, one word =  0
+  3  shi1zi               initial =  0, final =  3, other =  0, one word =  0
+  4  shi2tou              initial =  2, final =  0, other =  2, one word =  0
+ 13  shou1yin1ji1         initial =  2, final =  1, other =  2, one word =  8
+462  shou3                initial = 36, final =136, other =279, one word = 11
+ 18  shou3biao3           initial =  1, final =  8, other =  6, one word =  3
+  9  shou3juan4           initial =  1, final =  4, other =  4, one word =  0
+  3  shou3tao4            initial =  0, final =  1, other =  1, one word =  1
+  2  shou3zhi3            initial =  0, final =  0, other =  2, one word =  0
+154  shu1                 initial = 12, final = 39, other = 94, one word =  9
+ 50  shu1bao1             initial =  0, final = 11, other = 38, one word =  1
+ 33  shu1shu1             initial =  2, final = 14, other = 16, one word =  1
+  5  shu1zi               initial =  0, final =  0, other =  2, one word =  3
+ 57  shu4                 initial =  5, final = 17, other = 33, one word =  2
+297  shui3                initial = 14, final =109, other =167, one word =  7
+  1  shui3guan3           initial =  0, final =  0, other =  0, one word =  1
+  1  shui3long2tou2       initial =  0, final =  0, other =  1, one word =  0
+  3  suan1nai3            initial =  0, final =  1, other =  1, one word =  1
+  9  sun1wu3kong1         initial =  2, final =  3, other =  2, one word =  2
+  8  tai4yang             initial =  1, final =  5, other =  0, one word =  2
+ 44  tai4yang2            initial =  8, final = 17, other = 10, one word =  9
+160  tang2                initial = 13, final = 68, other = 64, one word = 15
+ 83  tang2lao3ya1         initial =  7, final = 15, other = 46, one word = 15
+  3  ti1zi                initial =  0, final =  0, other =  2, one word =  1
+ 59  tian1                initial =  4, final =  5, other = 46, one word =  4
+ 32  tian1an1men2         initial =  6, final =  8, other = 12, one word =  6
+  2  tiao2zhou            initial =  0, final =  0, other =  0, one word =  2
+ 24  tong3                initial =  0, final =  6, other = 17, one word =  1
+119  tou2                 initial = 19, final = 34, other = 63, one word =  3
+127  tu3                  initial = 17, final = 54, other = 50, one word =  6
+ 10  tu3dou4              initial =  0, final =  4, other =  5, one word =  1
+  8  tu4zi                initial =  0, final =  5, other =  3, one word =  0
+ 36  tui3                 initial =  1, final = 10, other = 24, one word =  1
+ 18  tuo1er2suo3          initial =  3, final =  3, other = 12, one word =  0
+ 19  tuo1xie2             initial =  3, final =  2, other = 13, one word =  1
+ 96  wa2wa                initial =  7, final = 36, other = 53, one word =  0
+ 35  wai4tou              initial =  9, final =  2, other = 23, one word =  1
+ 13  wan2ju4              initial =  1, final =  4, other =  6, one word =  2
+ 46  wan3                 initial =  1, final = 12, other = 33, one word =  0
+  3  wen2zi               initial =  0, final =  0, other =  3, one word =  0
+ 21  wu1gui1              initial =  2, final =  6, other =  7, one word =  6
+  3  wu1ya1               initial =  0, final =  1, other =  1, one word =  1
+  9  wu1zi                initial =  1, final =  0, other =  8, one word =  0
+  1  xi1gua               initial =  0, final =  0, other =  1, one word =  0
+ 11  xi1gua1              initial =  2, final =  2, other =  5, one word =  2
+  2  xi1hong2shi4         initial =  1, final =  1, other =  0, one word =  0
+  8  xi3que4              initial =  1, final =  5, other =  1, one word =  1
+  4  xi3yi1ji1            initial =  1, final =  1, other =  2, one word =  0
+118  xia1                 initial = 37, final = 16, other = 58, one word =  7
+  5  xiang1jiao1          initial =  0, final =  3, other =  2, one word =  0
+ 14  xiao3hai2            initial =  2, final =  2, other = 10, one word =  0
+  2  xiao3jiao4che1       initial =  0, final =  1, other =  0, one word =  1
+  1  xiao3mao1            initial =  0, final =  1, other =  0, one word =  0
+181  xie2                 initial = 13, final = 70, other = 80, one word = 18
+ 12  xing1xing            initial =  5, final =  1, other =  4, one word =  2
+ 28  xiong2               initial =  2, final = 10, other =  6, one word = 10
+ 82  xiong2mao1           initial = 11, final = 27, other = 35, one word =  9
+ 12  xiu4zi               initial =  0, final =  8, other =  3, one word =  1
+ 29  xue3                 initial =  4, final =  6, other = 19, one word =  0
+ 50  ya1zi                initial =  6, final = 29, other = 14, one word =  1
+ 92  ya2                  initial =  9, final = 36, other = 42, one word =  5
+  1  ya2chi3              initial =  0, final =  0, other =  0, one word =  1
+  9  ya2shua1             initial =  3, final =  1, other =  2, one word =  3
+  4  yan2                 initial =  0, final =  3, other =  1, one word =  0
+ 66  yan3jing1            initial =  2, final = 24, other = 37, one word =  3
+ 14  yan3jing4            initial =  0, final =  4, other =  5, one word =  5
+  3  yan4zi               initial =  0, final =  3, other =  0, one word =  0
+ 30  yang2                initial =  5, final =  9, other =  8, one word =  8
+  3  yang2tai2            initial =  0, final =  1, other =  2, one word =  0
+1598  yao4                 initial =372, final =210, other =981, one word = 35
+ 36  yao4shi              initial =  4, final =  8, other = 21, one word =  3
+178  ye2ye                initial = 39, final = 33, other = 88, one word = 18
+ 10  ye4zi                initial =  2, final =  5, other =  3, one word =  0
+ 62  yi1fu                initial =  3, final = 14, other = 41, one word =  4
+ 10  yi1shang             initial =  1, final =  7, other =  2, one word =  0
+  3  yi1sheng1            initial =  0, final =  2, other =  0, one word =  1
+ 11  yi1yuan4             initial =  1, final =  2, other =  8, one word =  0
+ 11  yi3zi                initial =  1, final =  4, other =  6, one word =  0
+  2  you2le4yuan2         initial =  2, final =  0, other =  0, one word =  0
+  3  you2xi4              initial =  0, final =  0, other =  3, one word =  0
+ 68  you4er2yuan2         initial = 12, final = 11, other = 40, one word =  5
+170  yu2                  initial = 16, final = 71, other = 68, one word = 15
+ 65  yu3                  initial =  1, final = 26, other = 34, one word =  4
+  4  yu3san3              initial =  0, final =  2, other =  0, one word =  2
+ 12  yu4mi3               initial =  1, final =  4, other =  4, one word =  3
+  1  yue4liang            initial =  0, final =  0, other =  1, one word =  0
+ 36  yue4liang4           initial =  1, final = 11, other = 14, one word = 10
+  3  yun2                 initial =  0, final =  2, other =  0, one word =  1
+  1  yun2cai              initial =  0, final =  1, other =  0, one word =  0
+  3  zhao4xiang4ji1       initial =  0, final =  0, other =  3, one word =  0
+  1  zhen3tou             initial =  0, final =  0, other =  1, one word =  0
+161  zhi3                 initial = 27, final = 18, other =115, one word =  1
+ 41  zhong1               initial =  2, final = 12, other = 25, one word =  2
+ 13  zhong1guo2           initial =  5, final =  2, other =  4, one word =  2
+ 35  zhou1                initial =  1, final = 10, other = 23, one word =  1
+ 54  zhu1                 initial =  8, final = 14, other = 13, one word = 19
+  5  zhu1ba1jie4          initial =  0, final =  3, other =  0, one word =  2
+  1  zhu1gan1             initial =  0, final =  0, other =  0, one word =  1
+ 36  zhuo1zi              initial =  4, final =  7, other = 20, one word =  5
+ 25  zi4xing2che1         initial =  6, final =  7, other =  7, one word =  5
+189  zui3                 initial =  8, final = 76, other = 99, one word =  6
+ 24  zui3ba               initial =  6, final =  6, other = 12, one word =  0
+
+Number of words in an initial position =3266
+Number of words in an other position   =10250
+Number of words in a final position    =4992
+Number of one word utterences          =1560

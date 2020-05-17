@@ -1,0 +1,164 @@
+freqpos +d +g@90_words.cut *.cha +f +u
+Thu Mar 12 20:14:07 2020
+freqpos (09-Feb-2020) is conducting analyses on:
+  ALL speaker tiers
+****************************************
+From file <bb011001.cha>
+From file <bb011013.cha>
+From file <bb011105.cha>
+From file <bb011130.cha>
+From file <bb020113.cha>
+From file <bb020207.cha>
+From file <bb020302.cha>
+From file <cx011009.cha>
+From file <cx011106.cha>
+From file <cx011108.cha>
+From file <cx011120.cha>
+From file <cx020018.cha>
+From file <hy010828.cha>
+From file <hy011000.cha>
+From file <hy011009.cha>
+From file <hy011105.cha>
+From file <hy011121.cha>
+From file <hy020004.cha>
+From file <lc010921.cha>
+From file <lc011005.cha>
+From file <lc011019.cha>
+From file <lc011113.cha>
+From file <lc020012.cha>
+From file <lc020119.cha>
+From file <lc020205.cha>
+From file <ll010906.cha>
+From file <ll010920.cha>
+From file <ll011003.cha>
+From file <ll011017.cha>
+From file <ll011028.cha>
+From file <ll020001.cha>
+From file <ll020027.cha>
+From file <ll020127.cha>
+From file <lxb010903.cha>
+From file <lxb010915.cha>
+From file <lxb011011.cha>
+From file <lxb011020.cha>
+From file <lxb011024.cha>
+From file <lxb011109.cha>
+From file <lxb020000.cha>
+From file <lxb020015.cha>
+From file <lxb020109.cha>
+From file <tt010903.cha>
+From file <tt010915.cha>
+From file <tt010930.cha>
+From file <tt011030.cha>
+From file <tt011128.cha>
+From file <tt020028.cha>
+From file <tt020122.cha>
+From file <ww011028.cha>
+From file <ww011113.cha>
+From file <ww011130.cha>
+From file <ww020024.cha>
+From file <ww020105.cha>
+From file <ww020120.cha>
+From file <ww020210.cha>
+From file <ww020304.cha>
+From file <wx010927.cha>
+From file <wx011010.cha>
+From file <wx011020.cha>
+From file <wx011118.cha>
+From file <wx020026.cha>
+From file <wx020104.cha>
+From file <wx020120.cha>
+From file <wx022618.cha>
+From file <yy011020.cha>
+From file <yy011104.cha>
+From file <yy011105.cha>
+From file <yy011117.cha>
+From file <yy020000.cha>
+From file <yy020025.cha>
+From file <yy020119.cha>
+From file <yy020218.cha>
+ 13  ban1ma3              initial =  1, final =  4, second =  2, one word =  6
+ 40  bang1                initial = 12, final =  9, second = 17, one word =  2
+ 15  bang3                initial =  6, final =  4, second =  5, one word =  0
+218  bao4                 initial = 55, final = 80, second = 65, one word = 18
+191  bi3                  initial = 29, final =100, second = 46, one word = 16
+ 39  biao3                initial =  2, final = 19, second =  5, one word = 13
+  6  ceng4                initial =  2, final =  3, second =  1, one word =  0
+107  cha1                 initial = 27, final = 41, second = 23, one word = 16
+928  che1                 initial = 97, final =540, second =239, one word = 52
+1311  chi1                 initial =394, final =408, second =474, one word = 35
+665  da3                  initial =279, final =124, second =206, one word = 56
+198  dai4                 initial = 66, final = 49, second = 70, one word = 13
+413  dao4                 initial =188, final = 65, second =137, one word = 23
+188  deng1                initial = 31, final = 95, second = 49, one word = 13
+ 67  deng4                initial = 13, final = 24, second = 16, one word = 14
+ 32  deng4zi              initial =  1, final = 18, second =  9, one word =  4
+234  diao4                initial = 92, final = 60, second = 64, one word = 18
+ 58  dong1xi1             initial =  1, final = 50, second =  7, one word =  0
+396  dong4                initial = 18, final =268, second =101, one word =  9
+187  fan4                 initial = 11, final = 97, second = 77, one word =  2
+210  gan4                 initial =121, final = 11, second = 77, one word =  1
+ 85  gao4su4              initial = 31, final =  1, second = 53, one word =  0
+1698  gei3                 initial =652, final = 74, second =867, one word =105
+  6  gong1zuo4            initial =  4, final =  1, second =  1, one word =  0
+ 41  gou3                 initial =  9, final = 14, second = 10, one word =  8
+ 14  gu4shi4              initial =  1, final = 12, second =  0, one word =  1
+397  he1                  initial =137, final = 99, second =138, one word = 23
+725  hua4                 initial =205, final =306, second =202, one word = 12
+165  huo3che1             initial = 31, final = 66, second = 44, one word = 24
+132  ji1                  initial = 41, final = 58, second = 29, one word =  4
+509  jiao4                initial =207, final = 72, second =209, one word = 21
+1429  kan4                 initial =394, final =327, second =684, one word = 24
+ 29  ku4zi                initial =  5, final = 14, second =  6, one word =  4
+1900  lai2                 initial =672, final =611, second =323, one word =294
+ 93  lou2                 initial = 15, final = 44, second = 24, one word = 10
+  4  lu2zi                initial =  0, final =  1, second =  1, one word =  2
+128  ma3                  initial = 36, final = 50, second = 22, one word = 20
+ 59  ma3lu4               initial = 18, final = 17, second = 18, one word =  6
+  2  man2tou2             initial =  1, final =  0, second =  1, one word =  0
+ 10  mao4zi               initial =  2, final =  4, second =  3, one word =  1
+ 44  mo2tuo1che1          initial = 14, final = 14, second =  7, one word =  9
+883  na2                  initial =370, final =195, second =282, one word = 36
+154  nong4                initial = 34, final = 66, second = 53, one word =  1
+246  pao3                 initial = 41, final =101, second = 58, one word = 46
+290  qi2                  initial =104, final = 60, second =119, one word =  7
+ 91  qiao2                initial = 29, final = 21, second = 36, one word =  5
+ 43  qin2                 initial =  6, final = 19, second =  7, one word = 11
+ 34  qing1wa1             initial =  8, final = 10, second =  8, one word =  8
+233  qiu2                 initial = 26, final =135, second = 33, one word = 39
+314  rang4                initial =162, final =  7, second =145, one word =  0
+ 17  rao4                 initial =  9, final =  3, second =  4, one word =  1
+ 13  rou2                 initial =  0, final =  9, second =  4, one word =  0
+ 19  shan1                initial =  4, final =  3, second =  8, one word =  4
+271  shou3                initial = 36, final =136, second = 88, one word = 11
+181  shui3                initial = 14, final =109, second = 51, one word =  7
+1025  shuo1                initial =187, final =239, second =567, one word = 32
+ 25  song4                initial = 10, final =  5, second = 10, one word =  0
+ 38  tai4yang2            initial =  8, final = 17, second =  4, one word =  9
+119  tang2                initial = 13, final = 68, second = 23, one word = 15
+ 16  tui3                 initial =  1, final = 10, second =  4, one word =  1
+379  wanr2                initial = 98, final =126, second =137, one word = 18
+ 67  wen4                 initial = 15, final =  8, second = 43, one word =  1
+309  xia4                 initial =110, final = 72, second = 95, one word = 32
+136  xie2                 initial = 13, final = 70, second = 35, one word = 18
+306  xie3                 initial = 95, final =105, second = 89, one word = 17
+ 63  xiong2mao1           initial = 11, final = 27, second = 16, one word =  9
+ 51  xue2                 initial = 14, final = 18, second = 19, one word =  0
+ 39  ya1zi                initial =  6, final = 29, second =  3, one word =  1
+ 69  ya2                  initial =  9, final = 36, second = 19, one word =  5
+ 41  yan3jing1            initial =  2, final = 24, second = 12, one word =  3
+1147  yao4                 initial =372, final =210, second =530, one word = 35
+  1  yi1fu2               initial =  0, final =  1, second =  0, one word =  0
+ 85  yong4                initial = 24, final = 19, second = 40, one word =  2
+1693  you3                 initial =321, final =585, second =715, one word = 72
+126  yu2                  initial = 16, final = 71, second = 24, one word = 15
+ 29  yue4liang4           initial =  1, final = 11, second =  7, one word = 10
+267  zhi1dao4             initial = 76, final = 97, second = 83, one word = 11
+ 87  zhuang1              initial = 45, final = 15, second = 24, one word =  3
+883  zou3                 initial =240, final =298, second =174, one word =171
+117  zui3                 initial =  8, final = 76, second = 27, one word =  6
+674  zuo4                 initial =264, final =120, second =249, one word = 41
+
+Number of words in an initial position =6723
+Number of words in a second position   =8177
+Number of words in a final position    =7085
+Number of one word utterences          =1582

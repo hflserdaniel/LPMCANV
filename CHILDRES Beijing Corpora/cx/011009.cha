@@ -1,0 +1,2443 @@
+@UTF8
+@PID:	11312/c-00006950-1
+@Begin
+@Languages:	zho
+@Participants:	CHI XiXi Target_Child , MOT Mother , INV XiaLing_and_Niu
+	Investigator
+@ID:	zho|Beijing|CHI|1;10.09|female|||Target_Child|||
+@ID:	zho|Beijing|MOT||female||WC|Mother|||
+@ID:	zho|Beijing|INV|||||Investigator|||
+@Media:	011009, audio, unlinked
+@Comment:	Please use the slider at the left to control media
+	playback.
+@Date:	27-AUG-1991
+@Situation:	Start at 8:00 am with M preparin g then feeding XX
+	breakfast , XX crying for much of the first 10 minutes.
+	After XX eats , she gets down and starts playing in their
+	living room with various toys. XX keeps wanting to sit on
+	the floor through much of the visit and M is struggling to
+	get her to squat.
+@Comment:	M says XX was crying because she was afraid that we were
+	nurses from the hospital and that we were going to give her
+	a needle!
+*CHI:	0 .
+%act:	crying
+*MOT:	ni3 yao4 ku1 wo3 bu4 xi3huan1 ni3 la: .
+%com:	xxx still crying
+*MOT:	bie2 ku1 la (2.) !
+%com:	xxx still crying , but almost stops
+*MOT:	ma1ma gei3 ni3 cheng2 fan4 .
+*MOT:	hao3 ma ?
+%com:	xxx still crying
+%cod:	$Q:QP:M
+*MOT:	hao3 bu4 hao3 ?
+%cod:	$Q:VNV
+*CHI:	<0 > [>] .
+%act:	crying
+%cod:	$UNINT
+*MOT:	<jue2dui4 rang4 ni3 zi4ji3 chi1 (.) hao3 ma > [<] ?
+%cod:	$Q:QP:T
+*MOT:	<a > [>] ?
+%cod:	$Q:PRMPT
+*CHI:	0 .
+%act:	still crying
+%cod:	$UNINT
+*MOT:	ni3 yao4 nao4 wo3 bu4 xi3huan1 le a: (3.) .
+*MOT:	[^ soft , but abrupt] ma1ma gei3 ni3 cheng2 .
+%com:	xxx only sobbing now
+*MOT:	ma1ma cheng2 .
+*MOT:	ma1ma cheng2 .
+*MOT:	ma1ma cheng2 .
+*MOT:	ma1ma cheng2 .
+%com:	xxx crying again
+*MOT:	wo3 bu4 xi3huan1 le a: .
+*CHI:	0 .
+%act:	xxx's cry turns into a scream
+*MOT:	zou4 ni3 .
+%com:	sound of chopping up food
+*CHI:	0 .
+%act:	starts crying again
+*MOT:	na4 (.) gei3 ni3 (.) gei3 .
+*MOT:	xixi zi4ji3 chi1lei (.) ma1ma bu4 guan3 .
+*MOT:	ma1ma bu4 guan3 .
+*MOT:	xixi zi4ji3 chi1 .
+*CHI:	0 .
+%act:	crying again
+%cod:	$UNINT
+*MOT:	gei3 ni3 .
+*MOT:	gei3 ni3 .
+*MOT:	kuai4zhe !
+%com:	xxx still crying
+*MOT:	zen3me hui2zi [: hui2] shir4 a [=! silence] (1.5) ?
+%cod:	$Q:QW
+*CHI:	0 .
+%act:	starts crying again
+*MOT:	zai4 nao4 wo3 bu4 xi3huan1 ni3 la: .
+*MOT:	hn ?
+%cod:	$Q:PRMPT
+*MOT:	en ?
+%com:	sound of bowl and spoon , xxx not crying anymore
+%cod:	$Q:PRMPT
+*MOT:	na4 (.) zan2 gen1 zher4 chi1 (.) zan2 bu2 rang4 a1yi2 kan4jian4 (.)
+	hao3 ma: ?
+%cod:	$Q:QP:T
+*MOT:	hao3 ma ?
+%cod:	$Q:QP:M
+*CHI:	0 .
+%act:	more crying
+%cod:	$UNINT
+*MOT:	ma1ma gei3 ni3 ca1ca1 ?
+%cod:	$Q:VNV:T
+*MOT:	en ?
+%cod:	$Q:PRMPT
+*MOT:	bu4 xi3huan1 ni3 (.) jiu4 zhe4yang4r .
+*CHI:	0 .
+%act:	crying softly now
+%cod:	$UNINT
+*MOT:	en (.) kuai4 chi1 (.) chi1 !
+*MOT:	ni3 zi4ji3 chi1 (.) ma1 duan1zhe !
+*MOT:	na4 [/] (.) na4 [/] na4 zen3me hui2zi +...
+*MOT:	zen3me le ?
+%cod:	$Q:QW
+*CHI:	0 .
+%act:	silence , then starts to cry again
+%cod:	$UNINT
+*MOT:	na4 ni3 yao4 gan4ma2 ?
+%cod:	$Q:QW
+*MOT:	ni3 yao4 gan4ma2 ?
+%cod:	$Q:QW
+*CHI:	0 .
+%act:	a single whimper-cry
+%cod:	$UNINT
+*MOT:	na4 ni3 yao4 gan4ma2 ?
+%cod:	$Q:QW
+*MOT:	gei3 ni3 zhei4ge .
+%com:	xxx almost finished crying
+*MOT:	zhei4ge .
+*CHI:	&=whimper en: .
+%cod:	$UNINT
+*MOT:	+^ bu2 yao4 .
+*MOT:	na4 ni3 yao4 shen2me ?
+%cod:	$Q:QW
+*CHI:	0 .
+%act:	whimpering
+%cod:	$UNINT
+*MOT:	gei3 ni3 zhei4ge .
+*CHI:	0 (2.) .
+%act:	whimpering
+%cod:	$UNINT
+*MOT:	hnn: (1.) .
+%cod:	$INTERJ
+*MOT:	zhei4ge hao3 (.) shi4 ba: ?
+%cod:	$Q:NQP:T
+*MOT:	[^ high , playful] xiang1xiang1 (2.) .
+*CHI:	bai2: .
+*MOT:	+^ ai4you1he (.) en: (.) shi4 bai2 .
+*MOT:	bai2 de (.) shi4 ba: ?
+%cod:	$Q:NQP:T
+*CHI:	en .
+%cod:	$INTERJ
+*MOT:	+^ en (.) bai2 de .
+*MOT:	dai1 huir3 jiu4 chi1 fan4fanr (.) .
+*MOT:	en: ?
+%cod:	$Q:PRMPT
+*MOT:	[^ play scold] you: (.) mo3 yi4shou3: .
+*CHI:	0 .
+%act:	laughs
+%cod:	$UNINT
+*MOT:	ai4you: .
+%com:	xxx and then m laughs
+%cod:	$INTERJ
+*MOT:	ni3 jiao4 a1yi2 wen2wen2 (.) ni3 shuo1 xiang1 bu4 xiang1 a: ?
+%cod:	$Q:VNV
+*MOT:	jiao4 a1yi2 wen2wen2 qu4 !
+*MOT:	kuai4 qu4 (4.) !
+%com:	truck goes by outside
+*MOT:	bie2 mo3 wai4tou2 a: (1.3) !
+*MOT:	mo3 wai4tou2 ke3 jiu4 bu4 hao3kan4 le a: .
+*MOT:	a: .
+%cod:	$INTERJ
+*MOT:	mo3 yi4dianr3 (.) xing2 le xing2 le !
+*MOT:	mo3 yi4dianr3 jiu4 xing2 la !
+%com:	trucks outside
+*CHI:	ya3: a: .
+%cod:	$UNINT
+*MOT:	ya1: a: .
+%cod:	$UNINT
+*MOT:	ze ya a: (.) bie2 gei3 ma1ma wang3 lian3 shang4 mo3: e: !
+*MOT:	[^ low pitch motherese] ma1ma bu4 mo3: you2: (1.) .
+*MOT:	ai1you (.) ni3 mo3 ya ?
+%cod:	$Q:NQP
+*MOT:	aiyou [% laughing softly] .
+%cod:	$INTERJ
+*MOT:	mo3 zui3 shang4 le a: [% "shuo ta"] ?
+%com:	m laughs softly , r1 also laughs
+%cod:	$Q:NQP
+*MOT:	aiyou (.) aiyouhe (.) xing2 le !
+*MOT:	xing2 le <0 > [<] !
+%com:	m laughing
+*CHI:	<dou4dou4 [*] > [>] [% trying to say "xiang1xiang1"] .
+*MOT:	en (.) xiang1xiang1 .
+*MOT:	aiyou: (.) ge1:bo1 teng2 .
+*MOT:	ni3 xia4 di4 mo3 ba (.) hao3 ma: ?
+%cod:	$Q:QP:T
+*MOT:	ma1ma ge1:bo1 teng2 .
+*MOT:	xing2 ma: ?
+%cod:	$Q:QP:M
+*MOT:	aiyou (.) ni3 qiao2 mo3zhe yi4shou3 (.) kuai4 ge1jin4qie !
+*MOT:	kuai4 ge1jin4qie (.) mo3 tai4 duo1 le !
+*MOT:	tai4 duo1 le a .
+*MOT:	aiyou [% high pitch] huo4le nir2: le ou: .
+*MOT:	huo4 nir2: le ou: .
+*MOT:	ye .
+%cod:	$INTERJ
+*MOT:	ye .
+%cod:	$INTERJ
+*MOT:	hao3 la: .
+*MOT:	hao3 le .
+*MOT:	bu4 xu3 zai4 mo3 le (.) bu4 xu3 zai4 mo3 le (.) bu4 xu3 zai4 mo3 le
+	!
+*MOT:	ai:you: .
+%cod:	$INTERJ
+*CHI:	0 .
+%act:	whines
+%cod:	$UNINT
+*MOT:	ni3 zai4 mo3 wo3 jiu4 bu4 xi3huan1 ni3 la: .
+*CHI:	e:n en .
+%cod:	$UNINT
+*MOT:	mo3 yi4shou3 (.) ca1ca1 zai4 mo3 (.) ca1ca1 !
+*CHI:	a:shh: .
+%cod:	$UNINT
+*CHI:	ou: .
+%cod:	$UNINT
+*MOT:	wen2wen2 ba !
+*MOT:	bie2 mo3 le (.) wen2wen2 !
+*MOT:	wen2wen2 (.) xiang1 bu4 xiang1 ba: ?
+%cod:	$Q:VNV
+*MOT:	xiang1 bu4 xiang1 ?
+%cod:	$Q:VNV
+*CHI:	djiang1 [: xiang1] [*] .
+*MOT:	xiang1 ba: .
+*MOT:	xiang1 (.) lai2 (.) ma1 gei3 ni3 na2 fan4r (.) zan2men chi1 fan4r !
+*MOT:	a: .
+%cod:	$INTERJ
+*MOT:	yao4bu4ran2 ma1ma jiu4 bu4 gei3 ni3 zhei4ge xiang1xiang1 le .
+*MOT:	hao3 ma: ?
+%cod:	$Q:QP:M
+*MOT:	ting1 hua4 wo3 jiu4 gei3 xiang1xiang1 (.) bu4 ting1 hua4 bu4 [/]
+	bu4 gei3 xiang1xiang1 .
+*MOT:	hao3 ma: ?
+%cod:	$Q:QP:M
+*MOT:	a: ?
+%cod:	$Q:PRMPT
+*MOT:	lai2 (.) ma1ma gei3 ni3 bo1 dianr3 ji1dan4 !
+*MOT:	hao3 ma: ?
+%cod:	$Q:QP:M
+*CHI:	en: en: .
+%cod:	$UNINT
+*MOT:	yao4bu4ran2 wo3 jiu4 bu4 gei3 ni3 xiang1xiang1 le .
+*MOT:	ni3 ba3 xiang1xiang1 (.) huan2 gei3 wo3 ba !
+*CHI:	el lhall .
+%cod:	$UNINT
+*MOT:	lai2 (.) ma1ma wei4 (.) en !
+*CHI:	+^ hei2 e .
+%cod:	$UNINT
+*CHI:	ei: ei (1.) .
+%cod:	$UNINT
+*CHI:	hei:ei (19.) [^ m chopping food , feeding xxx] .
+%cod:	$UNINT
+*MOT:	aiyou (.) shao3 mo3 dianr3 !
+*MOT:	aiyou: .
+%cod:	$INTERJ
+*MOT:	[^ clicks] tsch tsch tsch tsch (6.) .
+%cod:	$INTERJ
+*MOT:	shao3 mo3 dianr3 (.) mo3 tai4 duo1 le !
+*MOT:	ma1ma gei3 ni3 na2 dianr3 zhi3 ba .
+*MOT:	hao3 ma ?
+%cod:	$Q:QP:M
+*CHI:	[^ high , like first tone] hnn .
+%cod:	$INTERJ
+*MOT:	bie2 mo3 le (.) hao3 ma: ?
+%cod:	$Q:QP:T
+*MOT:	a: ?
+%cod:	$Q:PRMPT
+*MOT:	ai2you4 (.) mo3 yi4shou3: .
+*MOT:	qiao2qiao2 !
+*MOT:	qiao2qiao2 !
+%com:	xxx gets blue plastic chair out from under wall unit
+*MOT:	gei3 ni3 zhei4ge (.) zhei4 duo1 hao3 a .
+*MOT:	zhei4ge duo1 hao3 a: .
+*MOT:	zhei4ge [% traffic noise outside] (6.) .
+*MOT:	mo3 le yi4shou3 xiang1xiang1 .
+*MOT:	shi4 bu2 shi4 a: ?
+%cod:	$Q:VNV
+*MOT:	hnn: ?
+%cod:	$Q:PRMPT
+*MOT:	xia4 di4 ma1ma wei4 !
+*MOT:	ni3 na2 nei4 xiao3 yi3: !
+*MOT:	hao3 ma ?
+%cod:	$Q:QP:M
+*MOT:	a4: .
+%cod:	$INTERJ
+*MOT:	ei4you: (.) xixi <zuo4 xiao3 yi3> [<] .
+*CHI:	< un: shda4> [>] .
+%cod:	$UNINT
+*MOT:	ao (.) zhei4 kai1: la: ?
+%cod:	$Q:INT
+*CHI:	en .
+%cod:	$INTERJ
+*MOT:	+^ kai1le mei2 guan1xi4 .
+*MOT:	mei2 guan1xi4 !
+*CHI:	+^ sda4 .
+%cod:	$UNINT
+*MOT:	ai4 .
+%cod:	$INTERJ
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	ei ?
+%cod:	$Q:PRMPT
+*MOT:	ei4you (.) zhei4ge tui3 .
+*MOT:	hao3 (.) zuo4 xiao3 yi3 !
+*CHI:	xiao3 yi32: [: xiao3 yi3] [*] .
+*MOT:	en (.) ai .
+%cod:	$INTERJ
+*MOT:	ma1ma wei4 ni3 (.) hao3 ba: ?
+%cod:	$Q:NQP:T
+*CHI:	ang zuo4 .
+*MOT:	en (.) zuo4 (.) zuo4 .
+*MOT:	zuo4 zher4 (.) zher4 !
+%com:	m moves the chair over to the table
+*CHI:	[^ laughing as she walks to m] aiyou: !
+%cod:	$INTERJ
+*MOT:	+^ aiyou .
+%com:	laughs
+%cod:	$INTERJ
+*MOT:	aiyou: .
+%com:	moving the chair again
+%cod:	$INTERJ
+*MOT:	zan2men ge1 nei4 zhuo1: shang4 chi1 (.) hao3 ma: ?
+%cod:	$Q:QP:T
+*MOT:	ma1ma <wei4> [<] +...
+*CHI:	<a1yi2:> [>] .
+%cod:	$VOC
+*MOT:	ma1ma wei4 .
+*CHI:	a1yi2: .
+%cod:	$VOC
+*MOT:	na4 ni3 shang4 zher4 (.) zhar4 [: zher4] mei2 fa3r: chi1 !
+*MOT:	a .
+%cod:	$INTERJ
+*MOT:	zher4 zen3me chi1 a: ?
+%cod:	$Q:QW
+*MOT:	qi3lai2 !
+*MOT:	zhan4qi3lai2 !
+*MOT:	ei: zhen1: guai1 .
+*MOT:	ei2: .
+%cod:	$INTERJ
+*MOT:	zuo4zuo4 !
+*MOT:	ei (.) ei4you (.) ei4you .
+%cod:	$INTERJ
+*MOT:	ei4: (.) zhen1 hao3 .
+*MOT:	hao3 (.) chi1 ba !
+*MOT:	ma1ma wei4 ni3 hao3 ma: ?
+%cod:	$Q:QP:T
+*CHI:	<bu2: wei4:> [<] .
+*MOT:	<xing2 ma: > [>] ?
+%cod:	$Q:QP:M
+*MOT:	ma1ma pa4 ni3 nong4 yi4shen1 (.) jiu4 zang1le yi1shang4 .
+*MOT:	hao3 ma: ?
+%cod:	$Q:QP:M
+*CHI:	+^ &=fuss enn hnn .
+%cod:	$UNINT
+*MOT:	ni3 kan4 ni3 nong4 yi4qun2zi you2 .
+*MOT:	[^ quietly] ni3 kan4kan4 !
+*MOT:	zhei4ge (.) ni3 kan4kan4 !
+*CHI:	ba: xxx [% offering spoon to m] .
+%cod:	$UNINT
+*MOT:	ma1ma bu4 chi1 (.) ni3 chi1 ba !
+*MOT:	ni3 chi1 ba !
+*MOT:	[^ fast , high] kuai4 zhe (.) diao4 le (.) diao4 le !
+*MOT:	[^ stern] ni3 kan4 !
+*CHI:	[^ whine] a: .
+%cod:	$UNINT
+*MOT:	bu2 yao4 le !
+*MOT:	bu2 yao4 le (.) bu2 yao4 le !
+*CHI:	[^ whine] dia4 .
+%cod:	$UNINT
+*MOT:	en .
+%cod:	$INTERJ
+*CHI:	0 .
+%act:	laughs
+*CHI:	a: dao4 [: diao4] [*] .
+*MOT:	a (.) diao4 a .
+*CHI:	a:n .
+%cod:	$INTERJ
+*MOT:	+^ diao4le jiu4 bu2 yao4 le !
+*MOT:	en: .
+%cod:	$INTERJ
+*MOT:	diao4le jiu4 zang1 le .
+*MOT:	na2 zhei4 shou3 <fu2:zhe zhe4 wan3> [<] !
+*CHI:	<a du xxx diao1 [: diao4] [*] > [>] .
+*MOT:	ei: .
+%cod:	$INTERJ
+*CHI:	+^ hnn .
+%cod:	$INTERJ
+*MOT:	hnn (.) duan1zhe chi1: le !
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	diao4le jiu4 bu2 yao4 le !
+*MOT:	diao4 di4xia jiu4 bu2 yao4 le !
+*MOT:	a: .
+%cod:	$INTERJ
+*CHI:	dji4 .
+%cod:	$UNINT
+*MOT:	en (.) .
+%cod:	$INTERJ
+*MOT:	na4 bu2 yao4 le !
+*MOT:	bu2 yao4 le !
+*MOT:	zang1 le (.) zang1 le .
+*MOT:	[^ quietly] chi1 ba !
+*MOT:	ma1ma wei4 ni3 ba: .
+*MOT:	hao3 ma: ?
+%cod:	$Q:QP:M
+*CHI:	[^ fussing] en:en: .
+%cod:	$UNINT
+*MOT:	na4 wo3 shi4 bu4 gen1 ni3 hao3 le .
+%com:	m cutting xxx's food in bowl
+*CHI:	gei1 gu1 .
+%act:	smacks her lips
+%cod:	$UNINT
+*MOT:	+^ aiyou (.) aiyouhe he: he (.) zhe4me xiang3 na: .
+%com:	laughs
+*MOT:	bie2 cai3 zan2 nei4 tui3 (.) zang1 !
+*CHI:	en hnn .
+%cod:	$UNINT
+*MOT:	+^ en (.) chi1 ba !
+*CHI:	0 .
+%act:	laughing
+*MOT:	kuai4 chi1: (11.) !
+*MOT:	ni3 jiao3 xia4qie [: qu4] !
+%com:	laughing
+*MOT:	lai2 (.) ma1 wei4 ni3 !
+*MOT:	kuai4 (.) ni3 kan4 (.) cai3le a !
+*MOT:	lai2 (.) ma1 wei4 !
+*MOT:	kan4 xixi <guai1 zhe ne> [<] (.) xixi .
+*CHI:	<0 > [>] (20.) .
+%act:	fussing; sound of cutting vegetables in bowl
+%cod:	$UNINT
+*MOT:	ni3 dou1 nong4 yi4shen1 .
+*CHI:	hnn: ?
+%cod:	$Q:PRMPT
+*MOT:	nong4 yi4shen1 .
+*MOT:	nong4 yi4 (.) diao4 zhar4 [: zher4] le (10.) .
+%com:	noise
+*MOT:	kuai4 lai2 (.) wo3 wei4 ni3 ba (.) !
+*MOT:	kuai4zhe !
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	yao4bu4 ni3 yi4huir2 jiu4 gai1 nei4 shen2me le +...
+*MOT:	kou4 di4xia4 le a .
+*MOT:	hao3 ma: (4.) ?
+%cod:	$Q:QP:M
+*CHI:	<0 > [<] .
+%act:	vocalizing
+%cod:	$UNINT
+*MOT:	<bu4 xi3huan1 ni3 le> [>] (18.) .
+%com:	m cutting food in bowl
+*CHI:	ma1: [!] .
+%cod:	$VOC
+*MOT:	en: .
+%cod:	$INTERJ
+*CHI:	0 .
+%act:	vocalizing
+%cod:	$UNINT
+*CHI:	< xxx xxx > [<] .
+%cod:	$UNINT
+*MOT:	<ma1 wei4 ya: > [>] ?
+%cod:	$Q:NQP
+*MOT:	<shi4 ma > [<] ?
+%cod:	$Q:QP:M
+*CHI:	< xxx xxx xxx xxx xxx xxx xxx xxx > [>] .
+%cod:	$UNINT
+*MOT:	< en > [<] ?
+*MOT:	<ni3 chi1 ba> [<] !
+*CHI:	rou3 [: rou4] [*] .
+*MOT:	chi1 ba (15.) !
+*CHI:	0 .
+%act:	laughing with her mouth full
+*MOT:	[^ whisper] hao3haor chi1 !
+*CHI:	wo2 zhe4 yi2 yi2: yi yi: xxx xxx xxx xxx (.) .
+%act:	noise
+%cod:	$UNINT
+*MOT:	[^ whisper] kuai4 chi1 (7.) !
+*CHI:	[^ whines] eng .
+%cod:	$UNINT
+*MOT:	[^ whisper] lai2 (.) ma1ma wei4 (.) ma1ma wei4wan2 hai2 <dai4 ni3
+	wanr2> [>] ne !
+*CHI:	<rou2 [: rou4] [*] (.) ra2 [: rou4] [*] > [<] .
+%com:	voices outside
+*MOT:	na4 wo3 bu4 dai4 ni3 wanr2 le a .
+*MOT:	bu4 gen1 ni3 wanr2 le a .
+%com:	noise; copy tape blank for 30 secs
+*CHI:	a: .
+%cod:	$INTERJ
+*MOT:	+^ ni3 kan4 ni3 chi1 ge4 fan4 <chi1 de nar3nar3 dou1 shi4 ba: > [>]
+	.
+*MOT:	<ma1ma wei4 ni3> [<] .
+*CHI:	<a: a: ou > [>] !
+%cod:	$UNINT
+*MOT:	nei4 bu4 neng2 chi1 le !
+*CHI:	ou ou .
+%cod:	$INTERJ
+*MOT:	nei4 zang1 le a .
+*CHI:	a ao .
+%com:	copy tape blank for 18 seconds ; laugh
+%cod:	$INTERJ
+*CHI:	en2 en4 .
+%cod:	$UNINT
+*MOT:	[^ whisper] lai2 (.) ma1ma wei4 !
+*CHI:	[^ fussing] en4 .
+%com:	tape stopped
+%cod:	$INTERJ
+*CHI:	er3ge [% offering to m] .
+%cod:	$UNINT
+*MOT:	ni3 chi1 be (.) wo3 bu4 chi1 (8.) !
+*CHI:	jiu2jie4 [: chi1chi1] [*] .
+*MOT:	wo3 bu4 chi1 .
+*MOT:	ni3 chi1 ba (11.) !
+%com:	noise
+*CHI:	0 .
+%act:	laughs; noise; side b of tape 1 , transcribed by ll; clacking of
+	spoon , bowl
+*CHI:	en (.) jiu2: [: qiu2] [*] .
+*MOT:	en (.) qiur2 (.) bu2 dong4 (.) kuai4 <chi1 ba > [<] !
+*CHI:	jiu2jiu2: [: qiu2] [*] .
+*MOT:	en (.) qiu2qiu2 (.) qiu2qiu2 (.) qiu2qiu (.) a: .
+*CHI:	0 .
+%act:	laughs
+*MOT:	qiu2qiu2 hao3 ma ?
+%cod:	$Q:QP:M
+*CHI:	jiao3 [: hao3] [*] .
+*MOT:	hao3 a .
+*MOT:	en .
+%com:	sound of spoon , bowl
+%cod:	$INTERJ
+*CHI:	0 .
+%act:	laughing
+*MOT:	qiu2qiu2 .
+*MOT:	shi4 ba: ?
+%cod:	$Q:NQP
+*CHI:	enhen .
+%cod:	$INTERJ
+*CHI:	dan1 [*] .
+%cod:	$UNINT
+*MOT:	en ?
+%cod:	$Q:PRMPT
+*CHI:	+^ zhou2 [: qiu2] [*] .
+*MOT:	a: .
+%cod:	$INTERJ
+*MOT:	qiu2qiu2 .
+*CHI:	en ?
+%cod:	$Q:PRMPT
+*MOT:	a (.) qiu2qiu2 .
+*MOT:	<ma1ma> [<] (.) en +...
+*CHI:	qiu3qiu2 [: qiu2qiu2] [*] .
+*MOT:	qiu2qiu2 .
+*MOT:	en (7.) .
+%com:	traffic noise , cutting food , . . .
+%cod:	$INTERJ
+*MOT:	en (10.) .
+%com:	noise
+%cod:	$INTERJ
+*CHI:	deng3 [: teng2] [*] .
+*MOT:	leng3 ?
+%cod:	$Q:INT
+*CHI:	deng3 [: teng] [*] .
+*MOT:	zen3me la: ?
+%cod:	$Q:QW
+*CHI:	deng3 [: teng2] [*] .
+*MOT:	nar3 teng2 a: ?
+%cod:	$Q:QW
+*MOT:	ke1zhe la: ?
+%cod:	$Q:NQP
+*CHI:	en .
+%cod:	$INTERJ
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	hao3haorzhe bu4 [/] jiu4 bu4 [/] (.) ke1bu+zhao2le ma: .
+*MOT:	shi4 bu2 shi4 a (4.) ?
+%com:	noise
+%cod:	$Q:VNV
+*MOT:	hao3haor chi1 !
+%com:	footsteps
+*MOT:	hao3haor chi1 !
+*CHI:	jiu3jiu2 [: qiu2qiu2] [*] .
+*MOT:	en (.) qiu2qiu2 .
+*CHI:	jiu3jiu2 [: qiu2qiu2] [*] .
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	qiu2qiu2 .
+*MOT:	yan4 le !
+*MOT:	ba3 zui3 li3 nar4 yan4 le !
+*MOT:	shuai1shuai1 a: .
+*CHI:	+^ zhuo4 [: zuo4] [*] .
+*CHI:	zhuo4 [: zuo4] [*] .
+*MOT:	shei2 zuo4 ya: ?
+%cod:	$Q:QW
+*MOT:	rang4 shei2 zuo4 ?
+%cod:	$Q:QW
+*MOT:	rang4 wo3 zuo4 a: ?
+%cod:	$Q:NQP
+*MOT:	[^ whisper] bu2 rang4 ?
+%cod:	$Q:INT
+*INV:	ei .
+%cod:	$INTERJ
+*MOT:	en .
+%cod:	$INTERJ
+*CHI:	a: < u:> [>] .
+%cod:	$UNINT
+*MOT:	< en> [<] .
+%com:	noise
+%cod:	$INTERJ
+*MOT:	[^ whisper] hei .
+%cod:	$INTERJ
+*MOT:	jiao3 xia4lai (35.) !
+%com:	noise
+*MOT:	jiao3 xia4qie4 !
+*MOT:	chi1 fan4 mei2 yangr4 .
+*MOT:	[^ whisper] kuai4 jiao2 (3.) !
+%com:	noise
+*MOT:	gan4ma2 ne ?
+%cod:	$Q:QW
+*CHI:	0 .
+%act:	bites the table
+*MOT:	gan4ma2 ne ?
+%com:	noise
+%cod:	$Q:QW
+*MOT:	jiao2 !
+*CHI:	0 (6.) .
+%act:	laughing
+%cod:	$UNINT
+*CHI:	ma1ma [!] .
+%cod:	$VOC
+*MOT:	+^ ai (.) kuai4 jiao2 !
+*CHI:	en wu: xxx xxx xxx xxx yu2 .
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	nar3 you3 yu2 a: ?
+%cod:	$Q:QW
+*MOT:	mei2 you3 yu2 .
+*MOT:	ji1dan4 .
+*CHI:	hnn ?
+%cod:	$Q:PRMPT
+*MOT:	mei2 you3 yu2 .
+*MOT:	ji1dan4 .
+*CHI:	jian4jian4 [: dan4dan4] [*] .
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	dan4dan4 .
+*MOT:	kuai4 chi1 ba !
+*CHI:	dan4dan4 .
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	ni3 jiao2wan2le (.) wo3 gei3 ni3 .
+*CHI:	dan4dan4 .
+*MOT:	+^ en (.) dan4dan4 .
+*MOT:	ai4you4 (.) ni3 yi4 shuo1 hua4 jiu4 diao4chu1lai2le .
+*MOT:	[^ whisper] qiao2qiao2 !
+*MOT:	en .
+%cod:	$INTERJ
+*CHI:	dan4d an4 .
+*MOT:	en .
+%com:	spoon in bowl
+%cod:	$INTERJ
+*MOT:	you4 zou3 la: ?
+%cod:	$Q:NQP
+*MOT:	en: (9.) ?
+%com:	noise; m sighs
+%cod:	$Q:PRMPT
+*MOT:	en +...
+%cod:	$INTERJ
+*MOT:	[^ whispers] kuai4 jiao2 !
+*CHI:	fiu3fiu2 [: qiu2qiu2] [*] .
+*MOT:	en .
+%cod:	$INTERJ
+*CHI:	en ?
+%cod:	$Q:PRMPT
+*MOT:	ni3 you3 qiu2qiu2 mei2 you3 ?
+%cod:	$Q:VNV
+*CHI:	qiu3qiu2 [: qiu2qiu2] [*] .
+*MOT:	+^ ha: ha: ha: (.) ni3 ye3 you3 qiur2qiu2 a: ?
+%cod:	$Q:NQP
+*CHI:	en en .
+%cod:	$UNINT
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	kuai4 chi1 ba !
+*CHI:	0 .
+%act:	spits out food
+*MOT:	hei4 .
+%cod:	$INTERJ
+*MOT:	tao3yan4 a: .
+*MOT:	bu4 xu3 dong4 !
+*MOT:	ting1jian4 le ba: ?
+%cod:	$Q:NQP
+*INV:	zhai1xia4lai2 kan4 !
+*MOT:	ta1 a: +...
+*INV:	+^ zang1le de ha .
+*MOT:	0 .
+%act:	laughing softly
+*MOT:	kuai4 chi1 !
+*MOT:	shuai1shuai1 .
+*MOT:	ni3 zen3me deng1 yi3zi shang4 lai2 la ?
+%com:	bowl and spoon
+%cod:	$Q:QW
+*MOT:	shuai1 ni3 .
+*CHI:	en .
+%cod:	$UNINT
+*MOT:	qiao2 (.) tao2 ba: ?
+%cod:	$Q:NQP:T
+*MOT:	tao2 ba ni3 ?
+%cod:	$Q:NQP
+*CHI:	au [: tao2] [*] .
+*MOT:	tao2qi4 .
+%com:	sound
+*MOT:	[^ whisper] ai4ya1 (.) zhe4 fan4 (.) yi4huir3 jiu4 sa3 le .
+*MOT:	[^ whisper] huai4 .
+*MOT:	xia4lai2 !
+*MOT:	xia4qi4 [: qu4] chi1 !
+*MOT:	xia4qi4 [: qu4] !
+*CHI:	< a: ou:> [>] .
+%cod:	$UNINT
+*MOT:	< xxx xxx > [<] .
+%cod:	$UNINT
+*MOT:	hei4 .
+%cod:	$INTERJ
+*MOT:	kuai4 jiao2 !
+*MOT:	kuai4zhe !
+*CHI:	xxx xxx xxx xxx xxx .
+*MOT:	kuai4 !
+*MOT:	yao4bu4 [/] (.) en: (.) kuai4 chi1 !
+*MOT:	kan4 ni3 nong4 de zhei4ge !
+*MOT:	ai4you1 (14.) .
+%com:	footsteps
+%cod:	$INTERJ
+*MOT:	ni3 kuai4 chi1 a: !
+*MOT:	xixi .
+%cod:	$VOC
+*MOT:	a: ?
+%cod:	$Q:PRMPT
+*MOT:	ting1jian4 mei2 you3 (8.) ?
+%com:	footsteps
+%cod:	$Q:MEI
+*MOT:	[^ talking to herself , softly] zan2 gei3 a1yi2 dao4 bei1 shui3 he1
+	(25.) .
+%com:	sound of pouring water , getting cups in kitchen
+*CHI:	0 .
+%act:	runs into kitchen
+*MOT:	xixi (5.) .
+%cod:	$VOC
+*CHI:	en ?
+%cod:	$Q:PRMPT
+*MOT:	ni3 gan4ma2 qi4 [: qu4] ?
+%cod:	$Q:QW
+*CHI:	dang dan .
+%cod:	$UNINT
+*MOT:	qu4 (.) chi1 fan4 qie !
+*MOT:	ba3 ni3 nei4 dianr3 fan4 chi1 lou !
+*MOT:	hao3 ma (55.) ?
+%com:	footsteps , pouring water
+%cod:	$Q:QP:M
+*MOT:	lai2 (.) gei3 ni3 .
+*MOT:	he1 wan3 shui3 ba !
+*MOT:	kuai4 chi1 !
+*MOT:	ni3 kan4kan (.) yi4 chi1 fan4 nong4 de man3 di4 !
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	kuai4zhe !
+*MOT:	[^ whisper] ma1ma wei4 .
+*MOT:	ei .
+%cod:	$INTERJ
+*CHI:	ha1 .
+%cod:	$INTERJ
+*MOT:	haha hei: .
+%cod:	$INTERJ
+*MOT:	a: (.) ni3 you4 gen1 a1yi2 nar4 a .
+%com:	laughing
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	[^ whisper] zhang1 zui3 !
+*CHI:	en .
+%cod:	$INTERJ
+*MOT:	bu4 chi1 le a: ?
+%cod:	$Q:NQP
+*MOT:	chi1 le ba !
+*MOT:	jiu4 sheng4 liang3kou3 le .
+*MOT:	hao3 <ma: > [>] ?
+%cod:	$Q:QP:M
+*MOT:	en ?
+%cod:	$Q:PRMPT
+*CHI:	<bu4 chi1 re [: le] [*] > [<] .
+*MOT:	<jiu4 sheng4 liang3kou3 le> [>] .
+*CHI:	bu4 chi1 re [: le] [*] .
+*MOT:	ni3 ye3 he1 shui3 ya ?
+%cod:	$Q:NQP
+*MOT:	shi4 ma: ?
+%cod:	$Q:QP:M
+*MOT:	shi4 ma: ?
+%cod:	$Q:QP:M
+*CHI:	en .
+%cod:	$INTERJ
+*MOT:	wo3 gei3 ni3 na2qie [: qu4] .
+*MOT:	a: .
+%cod:	$INTERJ
+*MOT:	en .
+%com:	m walks into kitchen , pours water
+%cod:	$INTERJ
+*CHI:	ma1ma4 .
+%cod:	$VOC
+*MOT:	ei .
+%cod:	$INTERJ
+*MOT:	ma1ma gei3 ni3 na2 .
+%com:	pours water
+*CHI:	xxx xxx .
+%cod:	$UNINT
+*MOT:	en [% as she gives xxx the cup] .
+%cod:	$INTERJ
+*CHI:	biao4 [: bu2 yao4] [*] .
+*MOT:	a .
+%cod:	$INTERJ
+*MOT:	yong4 ping2zi he1 ya ?
+%com:	chair moving
+%cod:	$Q:NQP
+*MOT:	yong4 ping2zi he1 ya ?
+%cod:	$Q:NQP
+*CHI:	en .
+%cod:	$INTERJ
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	na4 ni3 jiu4 yong4 ping2zi he1 ba !
+*MOT:	beng2 na2 zhei4 wanr3 le !
+*MOT:	hao3 ma ?
+%cod:	$Q:QP:M
+*CHI:	[^ fussing] enn: enn .
+%cod:	$UNINT
+*MOT:	na4 ni3 ba3 nei4 ping2zi gei3 wo3 ya !
+*MOT:	a ?
+%cod:	$Q:PRMPT
+*MOT:	ei .
+%cod:	$INTERJ
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	na2 wanr3 he1 ba (20.) !
+%com:	traffic , shovelling sounds outside , footsteps
+*MOT:	na4 ni3 hai2 chi1 bu4 chi1 fan4 le (.) xixi ?
+%cod:	$Q:VNV
+*MOT:	en ?
+%com:	footsteps
+%cod:	$Q:PRMPT
+*MOT:	ei (.) ni3 nei4 qiang1 nei4 (.) hei ?
+%cod:	$Q:NQP
+*CHI:	0 .
+%act:	vocalized very softly
+%cod:	$UNINT
+*MOT:	[^ whispers] aiyou .
+%cod:	$INTERJ
+*CHI:	0 .
+%act:	laughs loudly
+%cod:	$UNINT
+*MOT:	ha (.) you4 gei3 da3kai1le a: ?
+%cod:	$Q:NQP
+*MOT:	<ca1ca1 zui3> [<] .
+*CHI:	< a: > [>] .
+%cod:	$INTERJ
+*MOT:	ca1ca1 zui3 .
+*MOT:	hai2 chi1 bu4 chi1 (.) nei4 liang3kou3 fan4 le ?
+%cod:	$Q:VNV
+*MOT:	chi1 ma ?
+%cod:	$Q:QP:M
+*CHI:	xxx xxx [: bu4 chi1] .
+%cod:	$UNINT
+*MOT:	a ?
+%cod:	$Q:PRMPT
+*CHI:	+^ xxx xxx [: bu4 chi1] .
+%cod:	$UNINT
+*MOT:	bu4 chi1 a: ?
+%cod:	$Q:NQP
+*MOT:	bu4 chi1 la1dao3 ba .
+*CHI:	0 .
+%act:	vocalizing to herself
+%cod:	$UNINT
+*MOT:	aiyou: .
+%cod:	$INTERJ
+*MOT:	gan4ma2 ne ?
+%cod:	$Q:QW
+*MOT:	mo3 <you2 na: > [<] ?
+%cod:	$Q:QP:N
+*CHI:	< a> [>] .
+%cod:	$INTERJ
+*CHI:	a .
+%cod:	$INTERJ
+*MOT:	mo3 xiang1xiang1 ne ba: ?
+%cod:	$Q:NQP
+*CHI:	a .
+%cod:	$INTERJ
+*MOT:	[^ pleased] a (.) en (10.) .
+%cod:	$INTERJ
+*CHI:	ja [: ai1ya] [*] (.) <bei2 [: mei2] [*] [!] > [<] .
+*MOT:	< en> [>] .
+%cod:	$INTERJ
+*MOT:	a (.) mei2 .
+*MOT:	mei2 .
+*MOT:	mei2 le .
+*CHI:	gei1 [: gei3] [*] .
+*MOT:	mei2 la: .
+*CHI:	dai4 [: gai4] [*] .
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	gai4 .
+*MOT:	ni3 gai4 ba !
+%com:	footsteps , chair
+*CHI:	xxx you xxx .
+%cod:	$UNINT
+*CHI:	en: .
+%cod:	$INTERJ
+*CHI:	dei1 gei3 shuai1sui4 le .
+%cod:	$UNINT
+*CHI:	a: .
+%cod:	$INTERJ
+*INV:	0 .
+%act:	microphone fell
+*MOT:	+^ hei [!] .
+%cod:	$INTERJ
+*MOT:	wo3 gao4 ni3: .
+*MOT:	ni3 (.) shuo1shuo1 (.) zhei4 hai2zi jiu4 bu4 zhang3 ji4xing4 .
+%com:	xxx pushing chair
+*MOT:	xing2 le a: .
+*MOT:	chu1qu4 ba !
+*MOT:	bie2 tui1 le: !
+*MOT:	[^ gradually softer] bie2 tui1 le !
+*MOT:	[^ softer] bie2 tui1 le !
+*CHI:	0 .
+%act:	laughs and squeals , pushes chair
+%cod:	$UNINT
+*CHI:	bia1 xxx bia1: xxx .
+%cod:	$UNINT
+*MOT:	xxx en .
+%com:	xxx puts cream on chair , pushes , and cream falls off
+%cod:	$INTERJ
+*MOT:	tao2qi4 bu4 tao2qi4 ?
+%cod:	$Q:VNV
+*MOT:	en: .
+%cod:	$INTERJ
+*MOT:	di1le+di1le ku4zi .
+*MOT:	de2 .
+%cod:	$INTERJ
+*MOT:	en .
+%cod:	$INTERJ
+*CHI:	[^ pushing chair] wa: .
+%cod:	$UNINT
+*CHI:	za: za: za: .
+%act:	laughing loudly
+%cod:	$UNINT
+*MOT:	0 .
+%act:	laughing softly
+*CHI:	xxx xxx xxx xxx .
+%cod:	$UNINT
+*CHI:	en .
+%cod:	$INTERJ
+*CHI:	dao4 [: diao4] [*] .
+*MOT:	en: .
+%cod:	$INTERJ
+*MOT:	diao4le ba: ?
+%cod:	$Q:NQP
+*CHI:	en: .
+%cod:	$INTERJ
+*MOT:	en .
+%cod:	$INTERJ
+*CHI:	jiang2 [*] .
+%cod:	$UNINT
+*MOT:	en ?
+%cod:	$Q:PRMPT
+*CHI:	xxx xxx xxx .
+%cod:	$UNINT
+*CHI:	<jiu2 [: qiu2] [*] > [<] .
+*MOT:	< en> [>] .
+%cod:	$INTERJ
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	jiu4 zhen4mezhe ba !
+*MOT:	jiu4 zhen4mezhaor1 ba !
+*CHI:	jiu3jiu2 [: qiu2qiu2] [*] .
+*MOT:	+^ en (.) jiu4 zhen4me ge1zhe ba !
+*MOT:	[^ impatiently] jiu4 zhen4me ge1zhe ba !
+*CHI:	+^ jiu3jiu2 [: qiu2qiu2] [*] .
+*MOT:	+^ a a (.) wo3 zhi1dao4 qiu2qiu2 .
+*MOT:	<jiu4 zhen4me ge1 zhe ba > [<] !
+*CHI:	< ennna ennna > [>] .
+%cod:	$UNINT
+*MOT:	hai4 (.) ni3 wanr2 ni3de ba !
+*MOT:	[^ softer] wanr2 ni3de ba !
+*MOT:	wanr2 ni3de ba !
+*CHI:	xxx xxx xxx xxx .
+%cod:	$UNINT
+*CHI:	y a4 .
+%cod:	$UNINT
+*MOT:	0 .
+%act:	laughs
+*MOT:	wanr2 ni3de ba !
+*MOT:	tui1qi4 [: qu4] !
+*MOT:	qu4 ba !
+*MOT:	qu4 wanr2qi4 [: qu4] ba !
+*MOT:	wanr2 nei4 xiao3 (.) he2he !
+*MOT:	mo3 dianr3 you2 (.) wan3 [: wang3] lian3 shang4 !
+%com:	chair , traffic
+*CHI:	wei2 [: mei2] [*] .
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	mei2 .
+*CHI:	0 .
+%act:	pushing chair
+*CHI:	[^ sing-song] < ya1 wa: yi1> [<] +...
+%cod:	$UNINT
+*MOT:	< en> [>] .
+%cod:	$INTERJ
+*CHI:	en en en [% xxx tries to get teddy bear to drink tea] .
+%cod:	$UNINT
+*CHI:	a: a: .
+%cod:	$UNINT
+*MOT:	ta1 bu2 hui4 he1 .
+*CHI:	aen .
+%cod:	$INTERJ
+*CHI:	aen .
+%com:	laughs excitedly
+%cod:	$INTERJ
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	ta1 nar3 hui4 he1 ya: ?
+%cod:	$Q:QW
+*MOT:	aiyou (.) dou1 sa3 di4xia4 le .
+*MOT:	ta1 bu2 hui4 he1 .
+*CHI:	0 .
+%act:	laughing
+*MOT:	0 .
+%act:	laughing; xxx tries to use teddy bear to mop up spilled tea
+*MOT:	[^ whisper] hei hei !
+%cod:	$INTERJ
+*MOT:	zang1le .
+*MOT:	zang1le a: .
+*MOT:	nem4me wanr2 jiu4 zang1le a: .
+*CHI:	z:ang1 .
+*MOT:	zang1le ba: ?
+%cod:	$Q:NQP
+*CHI:	[^ very softly] en .
+%cod:	$INTERJ
+*MOT:	shei2 rang4 ni3 ge1 shui3 li3 le a: ?
+%cod:	$Q:QW
+*MOT:	ge1 shui3 li3 hai2 bu4 zang1 a: ?
+%cod:	$Q:NQP
+*CHI:	+^ de dong1 .
+%cod:	$UNINT
+*MOT:	en .
+%cod:	$INTERJ
+*CHI:	jie3 (20.) .
+%act:	traffic sound , footsteps
+%cod:	$UNINT
+*MOT:	qi4 wanr2 ba: !
+*MOT:	ei4 .
+%cod:	$INTERJ
+*CHI:	xxx xxx xxx xxx xxx xxx xxx xxx xxx .
+%cod:	$UNINT
+*CHI:	bai1 [: pai1] [*] .
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	ni3 pai1 !
+*CHI:	yi2 [: yi1] [*] .
+*MOT:	aiyouhe !
+%cod:	$INTERJ
+*CHI:	+^ yi2 [*] [=! yi1] (.) ba1 .
+*MOT:	a (.) ba1 ya ?
+%cod:	$Q:NQP
+*CHI:	0 .
+%act:	laughs , throws ball to m
+*MOT:	aiyouhe .
+%cod:	$INTERJ
+*MOT:	zhei4bianr1 ne !
+*MOT:	zher4 ne !
+%com:	laughs together with xxx
+*CHI:	0 .
+%act:	footsteps
+*CHI:	en ?
+%cod:	$Q:PRMPT
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	bu4 xu3 dong4 !
+*MOT:	bu4 xu3 dong4 (6.) !
+*CHI:	ma1 .
+%cod:	$VOC
+*MOT:	en .
+%com:	xxx throws ball to m
+%cod:	$INTERJ
+*MOT:	aiyouhe .
+%cod:	$INTERJ
+*CHI:	0 .
+%act:	laughs
+*CHI:	ei: [!] .
+%cod:	$INTERJ
+*CHI:	you [!] .
+%com:	throws the ball on the floor
+%cod:	$INTERJ
+*CHI:	yi1: .
+*CHI:	jin4 [: shi3jin4] [*] .
+*MOT:	+^ aiyou .
+%com:	laughs; footsteps
+%cod:	$INTERJ
+*CHI:	ei: .
+%cod:	$INTERJ
+*CHI:	< jia1 > [<] .
+%cod:	$UNINT
+*MOT:	< aiyouhe> [>] (3.) .
+%cod:	$INTERJ
+*MOT:	na4 wo3 zhuai1le a: [% ready to throw to xxx] .
+*CHI:	en .
+%cod:	$INTERJ
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	ei !
+%cod:	$INTERJ
+*CHI:	+^ ai2ya4 ya4 ya4: .
+%com:	microphone
+%cod:	$INTERJ
+*INV:	0 .
+%cod:	$UNINT
+*INV:	shi4 bu2 shi4 you3 dianr3 song1 le ?
+%cod:	$Q:VNV
+*MOT:	dui4 .
+%com:	laughs
+*INV:	jin3 ma ?
+%cod:	$Q:QP:M
+*MOT:	bu4 jin3 .
+*MOT:	xing2 .
+%com:	laughs
+*CHI:	ei yi1: .
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	wanr2 ba !
+*MOT:	ni3 [/] ni3 (.) shu3 shu4 a !
+*MOT:	ni3 shuo1 <yi1> [<] !
+*CHI:	< bong1> [>] .
+%cod:	$UNINT
+*MOT:	ni3 shuo1 (.) yi1 !
+*CHI:	ai [: yi1] [*] .
+*CHI:	ba4 [: ba1] [*] .
+*MOT:	ni3 kan4 a !
+*MOT:	yi1 .
+*MOT:	er4 .
+*MOT:	san1 .
+*CHI:	0 .
+%act:	throws ball
+*MOT:	ni3 pai1 yi2ge4 !
+*MOT:	ni3 shu3 yi1ge4 !
+*CHI:	ji1 [: qi1] [*] ba1 .
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	qi1 (.) ba1 .
+*CHI:	aiyou .
+%cod:	$INTERJ
+*MOT:	ni3 shuo1 (.) yi1 !
+*CHI:	ei [: yi1] [*] .
+*CHI:	ye4 .
+%cod:	$UNINT
+*MOT:	0 .
+%act:	laughs
+*CHI:	0 .
+%act:	laughs
+*CHI:	xxx xxx .
+%cod:	$UNINT
+*MOT:	aiyou .
+%com:	laughs; xxx tries to get at tape recorder
+%cod:	$INTERJ
+*MOT:	zhei4 ni3 bu4 xu3 dong4 !
+*MOT:	xiao3 bao3bei4r .
+*CHI:	xxx xxx .
+%cod:	$UNINT
+*MOT:	a (.) ta1 zhuan4 ne (.) wo3 zhi1dao4 .
+*MOT:	ha: ?
+%cod:	$Q:PRMPT
+*MOT:	ta1 zhuan4 ne (.) shi4 ba: ?
+%cod:	$Q:NQP:T
+*MOT:	< en> [<] .
+%cod:	$INTERJ
+*CHI:	<en (.) > [>] en2 ?
+%cod:	$Q:PRMPT
+*MOT:	+^ zhuan4 ne a: .
+*MOT:	a (.) a .
+%cod:	$INTERJ
+*MOT:	ni3 bu4 xu3 dong4 !
+*MOT:	kan4zhe ke3yi3 .
+*MOT:	a: .
+%cod:	$INTERJ
+*CHI:	+^ a (.) wa4 [: zhuan4] [*] .
+*MOT:	ta1 zen3me zhuan4 ya ?
+%cod:	$Q:QW
+*CHI:	0 .
+%act:	turns around in a circle
+*MOT:	aiyou .
+%com:	laughs
+%cod:	$INTERJ
+*CHI:	en .
+%cod:	$INTERJ
+*CHI:	en .
+%cod:	$INTERJ
+*MOT:	ma1ma bu2 dong4 (5.) .
+*MOT:	ma1: bu2 dong4 .
+*CHI:	en .
+%cod:	$INTERJ
+*MOT:	ma1ma bu2dong4 .
+*MOT:	gei3 ni3 zhei4 qiu2 ba ?
+%cod:	$Q:NQP
+*MOT:	qu4 ba !
+*MOT:	ni3 (.) duo3kai1 (.) duo3kai1 zher4 ba !
+*MOT:	a: .
+%cod:	$INTERJ
+*MOT:	gei3 ni3 qiu2 (.) gei3 ni3 qiu2 .
+*CHI:	bao3bao1 [: bao1bao1] [*] .
+%com:	picking up case for recorder
+*MOT:	a: .
+%cod:	$INTERJ
+*MOT:	[^ high , like xxx] bao1bao1 .
+*CHI:	yi2 xxx xxx xxx .
+%cod:	$UNINT
+*MOT:	+^ nei4 shei2de bao1bao1 a ?
+%cod:	$Q:QW
+*CHI:	xxx xxx .
+%cod:	$UNINT
+*MOT:	shei2de ya: ?
+%cod:	$Q:QW
+*MOT:	shei2de bao1bao1 a: ?
+%cod:	$Q:QW
+*MOT:	en ?
+%cod:	$Q:PRMPT
+*CHI:	xxx xxx .
+%act:	laughs
+%cod:	$UNINT
+*CHI:	en .
+%cod:	$INTERJ
+*CHI:	gei3 .
+*MOT:	en (.) a .
+%cod:	$INTERJ
+*MOT:	gei3 (7.) .
+%com:	outside noise
+*CHI:	wa: .
+%cod:	$UNINT
+*MOT:	zhei4 zhuang1 shen2me ya: ?
+%cod:	$Q:QW
+*MOT:	ni3 gao4 wo3 zhuang1 shen2me de ya: ?
+%cod:	$Q:QW
+*CHI:	+^ enna: .
+%cod:	$INTERJ
+*MOT:	[^ half-whisper] jiu4 zhei4yangr4 .
+*MOT:	zhei4yangr4 .
+*MOT:	zhuang1 shen2me de ya: (4.) ?
+%cod:	$Q:QW
+*MOT:	you3 ma: ?
+%cod:	$Q:QP:M
+*MOT:	you3 mei2 you3 ?
+%cod:	$Q:VNV
+*CHI:	en: .
+%cod:	$INTERJ
+*CHI:	en (.) fai1 [: huai4] [*] .
+*MOT:	en ?
+%cod:	$Q:PRMPT
+*CHI:	you yi .
+%cod:	$UNINT
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	ni3 bie2 dong4 zhei4ge !
+*MOT:	zhei4 ni3 bu4 xu3 dong4 !
+*CHI:	bu3: [!] ri4 .
+%act:	laughs
+%cod:	$UNINT
+*CHI:	en .
+%cod:	$INTERJ
+*MOT:	[^ whispers] bu4 neng2 dong4 !
+%com:	laughs softly
+*CHI:	jie2 [: qiu2] [*] .
+*MOT:	en: .
+%com:	throws ball
+%cod:	$INTERJ
+*CHI:	xxx +...
+%cod:	$UNINT
+*MOT:	hai .
+%cod:	$INTERJ
+*MOT:	zen3me gui4 di4xia4 a: ?
+%cod:	$Q:QW
+*CHI:	u .
+%cod:	$INTERJ
+*MOT:	ni3 shu3 ge4 shu4 !
+*MOT:	en ?
+%cod:	$Q:PRMPT
+*MOT:	pai1 ji3ge4 <le:> [<] ?
+%cod:	$Q:QW
+*CHI:	<pai1 > [>] .
+%com:	laughs
+*CHI:	yi3 [*] wa: [: ni3 wanr2] [*] !
+*MOT:	en .
+%cod:	$INTERJ
+*CHI:	+^ xxx +...
+%cod:	$UNINT
+*CHI:	yia ia .
+%cod:	$UNINT
+*CHI:	en .
+%cod:	$INTERJ
+*MOT:	+^ zen3me <le a > [<] ?
+%cod:	$Q:QW
+*CHI:	< en> [>] .
+%cod:	$INTERJ
+*CHI:	en (.) en .
+%cod:	$INTERJ
+*MOT:	zen3me le a ?
+%cod:	$Q:QW
+*CHI:	+^ dji4 [: di4] [*] .
+*MOT:	di4 ya: .
+*CHI:	en .
+%cod:	$INTERJ
+*MOT:	ge1 di4xia4 ya: ?
+%cod:	$Q:NQP
+*CHI:	0 .
+%act:	laughing , vocalizing
+*CHI:	yi3 [*] bai1 [: ni3 pai1] [*] !
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	pai1 .
+*CHI:	wa1 .
+%act:	throws ball
+%cod:	$UNINT
+*CHI:	wa: .
+%cod:	$UNINT
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	chao2 nei4bianr1 qu4 jian3 !
+*MOT:	qu4 jian3 !
+*CHI:	en ?
+%cod:	$Q:PRMPT
+*MOT:	qu4 jian3qi4 [: qu4] !
+%com:	xxx runs to get ball; m laughing softly
+*CHI:	<ma3n > [*] me2 [: guan1 men2] [*] .
+*MOT:	bu4 guan1 men2: !
+*MOT:	guan1 men2 gan4ma: ?
+%cod:	$Q:QW
+*CHI:	xxx +...
+%cod:	$UNINT
+*MOT:	guan1 men2 jiu4 gai1 re4 le a .
+*MOT:	xixi .
+%cod:	$VOC
+*MOT:	a: .
+%cod:	$INTERJ
+*MOT:	kai1kai1 men2 (9.) !
+%com:	xxx throws ball
+*INV:	ji4 shi2jian1 !
+*INV:	en .
+%cod:	$INTERJ
+*MOT:	qi4 ba3 men2 kai1kai1 !
+*MOT:	a: .
+%cod:	$INTERJ
+*MOT:	kuai4 qi4 !
+*CHI:	0 .
+%act:	footsteps , but ignores m
+*CHI:	0 .
+%act:	footsteps , pushing chair
+%cod:	$UNINT
+*CHI:	yi2 .
+%cod:	$INTERJ
+*CHI:	ha1 (5.) .
+%cod:	$INTERJ
+*CHI:	sui2 .
+%cod:	$UNINT
+*MOT:	en .
+%cod:	$INTERJ
+*CHI:	haha ai:you: .
+%com:	m and xxx both laugh
+%cod:	$INTERJ
+*CHI:	0 .
+%act:	footsteps , laughing
+*CHI:	yi ba4 a1 yi2 (4.) .
+%act:	footsteps; xxx laughing
+%cod:	$UNINT
+*CHI:	en .
+%cod:	$INTERJ
+*CHI:	jie3 [: zuo4] [*] di4 .
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	reng1 ba !
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	reng1 !
+*CHI:	xxx <di4> [<] .
+*MOT:	<you4> [>] zuo4 di4 .
+*MOT:	zuo4 di4xia4 (.) <bu4 xi3huan1> [<] .
+*CHI:	< en en en en en> [>] .
+%cod:	$UNINT
+*CHI:	jie3 [*] di4 .
+*CHI:	0 .
+%act:	screams
+%cod:	$UNINT
+*MOT:	0 .
+%act:	laughs
+*CHI:	jie3: [: zuo4] [*] .
+%com:	laughs
+*MOT:	kuai4 qi3 !
+*CHI:	0 .
+%act:	laughing
+*MOT:	0 .
+%act:	laughs quietly; footsteps
+*MOT:	xixi .
+%cod:	$VOC
+*MOT:	ni3 shu3 ge4 shu4 a: !
+*MOT:	kuai4 lai2 !
+*MOT:	ma1 jiao1 gei3 ni3 .
+*MOT:	guo4lai2 !
+*MOT:	lai2 !
+*CHI:	+^ yi2 [: yi1] [*] .
+*CHI:	ba1 .
+*MOT:	shen2me yi1 ba1 ya ?
+%com:	laughs quietly
+%cod:	$Q:QW
+*CHI:	yi1 +...
+%com:	something drops; xxx standing on m's foot
+*MOT:	aiyou you4 you4 .
+%cod:	$INTERJ
+*MOT:	za2zhao2 .
+*MOT:	zou4 ni3 le a: .
+*CHI:	0 .
+%act:	laughs
+*CHI:	enn enn .
+%act:	footsteps
+%cod:	$UNINT
+*MOT:	[^ whispers] tao2qi4 .
+*MOT:	gei3 ni3 zhei4ge .
+*MOT:	en [% as m gives it to her] .
+%cod:	$INTERJ
+*CHI:	0 .
+%act:	footsteps
+*CHI:	jiu1 <ma1ma1> [<] .
+%cod:	$VOC
+*MOT:	< duang1 > [>] .
+%cod:	$INTERJ
+*MOT:	bang1 !
+%cod:	$INTERJ
+*CHI:	+^ deng [!] .
+%cod:	$INTERJ
+*MOT:	0 .
+%act:	laughs through next series of voc's
+*CHI:	deng4 .
+%cod:	$INTERJ
+*CHI:	deng4 .
+%cod:	$INTERJ
+*CHI:	en .
+%cod:	$INTERJ
+*CHI:	beng4: .
+%cod:	$INTERJ
+*CHI:	en .
+%cod:	$INTERJ
+*CHI:	deng4 .
+%cod:	$INTERJ
+*CHI:	haiyou [: aiyou] [*] .
+%cod:	$INTERJ
+*CHI:	< dong4> [<] .
+%cod:	$INTERJ
+*MOT:	< aiyou> [>] .
+%cod:	$INTERJ
+*CHI:	0 .
+%act:	laughs
+*MOT:	[^ quietly] bang4: .
+%cod:	$INTERJ
+*CHI:	+^ deng2 [: teng2] [*] .
+*MOT:	+^ bu4 teng2 .
+%com:	m blows on xxx's finger
+*MOT:	hao3 le .
+*CHI:	en (.) deng2 [: teng2] [*] .
+*MOT:	0 .
+%act:	laughing softly , cutting food in bowl
+*MOT:	wo3 wen4 ni3 (.) <ei ei > [<] +...
+*CHI:	<xie2:> [>] .
+*MOT:	en ?
+%cod:	$Q:PRMPT
+*CHI:	enn .
+%cod:	$INTERJ
+*MOT:	zhei4 shi4 chui2zi .
+*CHI:	en ?
+%cod:	$Q:PRMPT
+*MOT:	ni3 ruo1 [: shuo1] (.) chui2 !
+*MOT:	chui2zi .
+%com:	m hits balloon hammer
+*CHI:	en .
+%cod:	$INTERJ
+*MOT:	en .
+%com:	hits hammer again
+%cod:	$INTERJ
+*MOT:	aiyouhe .
+%cod:	$INTERJ
+*INV:	zhei4 shi4 shen2me chui2zi ya: ?
+%cod:	$Q:QW
+*INV:	en: ?
+%com:	hammer
+%cod:	$Q:PRMPT
+*INV:	yi2 .
+%cod:	$INTERJ
+*MOT:	ei (.) ni3 gao4 yi2 ni3 jiao4 shen2me ya ?
+%cod:	$Q:QW
+*CHI:	yi2 .
+%cod:	$VOC
+*MOT:	ni3 jiao4 shen2me ?
+%com:	playing with hammer
+%cod:	$Q:QW
+*MOT:	ni3 ruo1 [: shuo1] (.) chen2xi1 !
+*MOT:	shuo1 ya !
+*MOT:	ni3 jiao4 ren2 [: shen2] me ?
+%cod:	$Q:QW
+*MOT:	ni3 gao4 wo3 (.) ni3 jiao4 ren2 [: shen2] me ?
+%cod:	$Q:QW
+*CHI:	<yi2> [<] .
+%com:	does xxx think m is telling her to "jiao4 a1yi2" ? if so , "yi2" is
+	an appropriate answer , but not for m's actual question
+*MOT:	<ni3 ruo1 [: shuo1] > [>] (.) ni3 ruo1 [: shuo1] ta1 jiao4 chen2xi1
+	!
+*CHI:	di1di1 [: Xi1xi1] [*] .
+*MOT:	a .
+%cod:	$INTERJ
+*MOT:	chen2xi1 .
+%cod:	$VOC
+*MOT:	ni3 shu3 ge4 shu4 !
+%com:	playing with hammer
+*MOT:	<ni3 ruo1 [: shuo1] (.) yi1> [>] !
+*MOT:	shuo1 yi1 !
+%com:	plays with hammer
+*MOT:	shuo1 yi1 !
+*MOT:	er4 .
+*MOT:	shuo1 ya !
+*MOT:	shuo1 ya !
+*CHI:	xxx .
+*MOT:	en .
+%com:	plays with hammer , xxx runs
+%cod:	$INTERJ
+*CHI:	<die: > [<] .
+%cod:	$UNINT
+*MOT:	< aiyou > [>] .
+%cod:	$INTERJ
+*MOT:	haha zen3me la: ?
+%cod:	$Q:QW
+*CHI:	haha ha ha (.) jiu4jiu2 [: qiu2qiu2] [*] .
+*MOT:	haha <zen3me> [<] la: ?
+%cod:	$Q:QW
+*CHI:	[^ raspy] < bu1> [>] .
+%act:	footsteps
+%cod:	$UNINT
+*CHI:	xxx .
+*MOT:	+^ aiyou .
+%cod:	$INTERJ
+*MOT:	da3 wo3 ya ?
+%cod:	$Q:NQP
+*CHI:	0 .
+%act:	laughs , pushing chair
+*CHI:	mm: .
+%cod:	$INTERJ
+*CHI:	bia1 yi !
+%cod:	$UNINT
+*MOT:	+^ aiyou .
+%cod:	$INTERJ
+*CHI:	0 .
+%act:	laughing , pushing chair
+*CHI:	bia yi .
+%cod:	$UNINT
+*MOT:	+^ aiyou !
+%cod:	$INTERJ
+*CHI:	+^ ou3: .
+%cod:	$INTERJ
+*CHI:	da3 yi3 [: ni3] [*] .
+%com:	pushing chair
+*CHI:	en .
+%com:	pushing chair
+%cod:	$INTERJ
+*CHI:	da4 [: da3] [*] .
+%com:	laughing
+*CHI:	da3 .
+*MOT:	ni3 da3 (.) wo3 dou1 [: jiu4] bu4 gen1 ni3 wanr2 le .
+*CHI:	0 .
+%act:	laughing , pushing chair
+*CHI:	nei4 xiao3 xiong2 na: ?
+%cod:	$Q:QP:N
+*CHI:	na4 jiu4 reng1 di4xia4 le: (2.) ?
+%com:	footsteps
+%cod:	$Q:NQP
+*CHI:	yio:a [: shi1le] [*] (2.) .
+*CHI:	wa: [!] !
+%cod:	$UNINT
+*CHI:	[^ louder] yioa [*] [% shi1le] .
+*CHI:	en .
+%cod:	$INTERJ
+*CHI:	en ?
+%com:	footsteps
+%cod:	$Q:PRMPT
+*MOT:	zen3me le ?
+%cod:	$Q:QW
+*CHI:	jiu:jiu [: shi1shi1] [*] .
+*MOT:	shi1 le a: ?
+%cod:	$Q:NQP
+*CHI:	en .
+%cod:	$INTERJ
+*MOT:	gang1cai2 ni3 bu2 zhan4zhe shui3 ma: ?
+%cod:	$Q:QP:M
+*MOT:	ke3 bu4 jiu4 shi1le a: .
+*MOT:	shi4 ba: ?
+%cod:	$Q:NQP
+*CHI:	+^ en .
+%cod:	$INTERJ
+*MOT:	+^ en .
+%cod:	$INTERJ
+*CHI:	yi4 da1 .
+%cod:	$UNINT
+*MOT:	en (3.) .
+%cod:	$INTERJ
+*MOT:	gei3 ta1 yi4 qiang1 !
+*CHI:	+^ dong4 .
+%cod:	$INTERJ
+*CHI:	e (.) da3 ni3 .
+%com:	laughing softly
+*MOT:	0 .
+%act:	laughs
+*MOT:	aiyou .
+%cod:	$INTERJ
+*MOT:	shuai1shuai1 le a .
+*MOT:	jiu4 +...
+%com:	footsteps; something drops
+*MOT:	aiyou !
+%cod:	$INTERJ
+*CHI:	bi4: .
+%cod:	$UNINT
+*MOT:	0 .
+%act:	laughing
+*CHI:	yi: yi: yi: .
+%cod:	$UNINT
+*MOT:	tao2qi4 .
+%com:	noise
+*CHI:	mm: .
+%cod:	$INTERJ
+*CHI:	aiyou .
+%cod:	$INTERJ
+*MOT:	+^ aiyou (.) you4 shuai1 yi2 pi4duir1 .
+*MOT:	kuai4 xi3 [: qi3] lai2 !
+*CHI:	a (.) jiu he .
+%cod:	$INTERJ
+*MOT:	0 .
+%act:	laughs
+*MOT:	kuai4 qi3 !
+*CHI:	a (.) jiu4: .
+%com:	laughs
+%cod:	$INTERJ
+*CHI:	xxx .
+*MOT:	nar4 shi4 shen2me: ?
+%cod:	$Q:QW
+*CHI:	ya4shi4 [: yao4shi4] [*] .
+*MOT:	[^ very soft] yao4shi .
+*CHI:	0 .
+%act:	footsteps
+*MOT:	0 .
+%act:	laughs
+*MOT:	zhei4 shi4 kai1 nar4de ma: ?
+%cod:	$Q:QP:M
+*CHI:	en .
+%cod:	$INTERJ
+*MOT:	shi4 a: (8.) ?
+%cod:	$Q:NQP
+*CHI:	jie [: shi4] [*] .
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	shi4 (.) na4 ni3 jiu4 kai1 ba !
+*CHI:	0 .
+%act:	laughing
+*MOT:	nja (.) cha1shang4 la: !
+*CHI:	0 .
+%act:	footsteps
+*CHI:	eiya .
+%cod:	$INTERJ
+*MOT:	en .
+%com:	r gives xxx plastic wrapping from audiotape
+%cod:	$INTERJ
+*MOT:	[^ quiet] ni3 shuo1 xie4xie4 le ma ?
+%cod:	$Q:QP:M
+*MOT:	ni3 ruo1 [: shuo1] (.) xie4xie4: !
+*CHI:	die4die4 [: xie4xie4] [*] .
+*MOT:	0 .
+%act:	laughs
+*CHI:	ei .
+%cod:	$INTERJ
+*CHI:	yi2 .
+%cod:	$INTERJ
+*CHI:	xxx .
+*MOT:	ei: .
+%cod:	$INTERJ
+*MOT:	zhen1 hao3wanr2 hei: .
+*MOT:	zhen1 hao3wanr2 hei4 (9.) .
+%com:	noise
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	gei3 ni3 wanr2 .
+*MOT:	ni3 pai1 ba !
+*MOT:	pai1 xiangr3 !
+*MOT:	en [% as m gives xxx the paper] .
+%cod:	$INTERJ
+*INV:	0 .
+%act:	changing tapes; tape 2 , g102 , transcribed by qh
+*CHI:	[^ fussing] eh:hm .
+%cod:	$UNINT
+*MOT:	+^ ehn (.) ni3 pai1 (.) ni3 zi4ji3 pai1 !
+*MOT:	ni3 pai1 (.) hmn !
+%com:	xxx tipping bucket of toys
+*CHI:	ehng heh dao3: ao ou .
+%act:	laughs
+%cod:	$UNINT
+*MOT:	hmn (.) you4 dao3 le ba: ?
+%cod:	$Q:NQP
+*CHI:	ahh .
+%cod:	$INTERJ
+*MOT:	+^ hmn (11.) .
+%com:	xxx dumps bucket of toys on floor
+%cod:	$INTERJ
+*MOT:	hai4 .
+%cod:	$INTERJ
+*CHI:	jun1jun deang: jun1:jun: jun: hh (17.) .
+%act:	xxx playing with toys
+%cod:	$UNINT
+*CHI:	ai4you2: (.) dao3: ao .
+*MOT:	+^ zhan4qi3lai2 !
+*CHI:	zhan4 dao3: .
+*MOT:	+^ [^ in rapid succession] hai4 (.) ni3 shuo1 zhei hai2zi (.) hai4
+	.
+*MOT:	shei2 jiao4 ni3 gui4 <di4xia4 de (.) kuai4 qi3lai2 > [<] (.)
+	zhan4qi3lai2 !
+*CHI:	< aihh ai> [>] .
+%cod:	$UNINT
+*CHI:	en dian dou .
+%cod:	$UNINT
+*MOT:	ai:hh .
+%cod:	$INTERJ
+*CHI:	qiu2: .
+*MOT:	+^ hmn (.) qiu2 .
+*CHI:	qiu2: (.) aihh ai .
+*CHI:	ai (8.) .
+%cod:	$INTERJ
+*CHI:	ma1 (.) mm: .
+%cod:	$VOC
+*MOT:	hhhn (7.) .
+%com:	laughing softly
+%cod:	$INTERJ
+*MOT:	zhan4qi3lai !
+*CHI:	qiu2: .
+*MOT:	zhan4qi3lai2 !
+*CHI:	qiu2: .
+*MOT:	+^ ahh (.) qiu2 (.) ni3 jian3qu4 (.) jian3 qiu2 qu4 !
+*MOT:	qu4 jian3qu4 !
+*MOT:	jian3qu4 !
+*CHI:	ai4 (.) ehn:gm: (32.) .
+%cod:	$INTERJ
+*CHI:	hhh [% squeal then laugh] hee hee hhh hee hee .
+%cod:	$UNINT
+*MOT:	hh .
+%cod:	$UNINT
+*CHI:	ou:uh .
+%cod:	$INTERJ
+*CHI:	ou:ounh .
+%cod:	$INTERJ
+*MOT:	ai4ya hei4 (.) zhan4qi3lai2 !
+*MOT:	kuai4 lai2 !
+*MOT:	zhan4qi3lai2 !
+*MOT:	bu4 xi3huan1 ni3 la: a .
+*CHI:	ahh .
+%com:	m looking for toys in bucket
+%cod:	$INTERJ
+*MOT:	zhan4qi3lai2 (3.) !
+%com:	m looking for toys; xxx's footsteps
+*MOT:	hm: (.) yong4 zhei4ge qu4 wanr2 (.) hnn !
+*MOT:	hm: (.) zhei4 che1 gu2lu zen3me mei2 le ?
+%cod:	$Q:QW
+*CHI:	hm:m ?
+%cod:	$Q:PRMPT
+*MOT:	che1 gu2lu ne (4.) ?
+%com:	m looking for toys
+%cod:	$Q:QP:N
+*CHI:	ai:ai .
+%cod:	$INTERJ
+*INV:	ei4 ei4 ei (.) <bu4 neng2 dong4> [<] !
+*MOT:	< ai: hai4 hai4> [>] hai4 hai4 (.) zhei4 ke3 bu4 xu3 dong4 (.)
+	zhei4 li3 hai2 you3 dong1xi1 !
+*MOT:	kuai4 +...
+*MOT:	zhei4 ke3 bu4 xu3 dong4: a: !
+*MOT:	ma1 gei3 ni3 zhao3 wan2yir4 (.) a: .
+*CHI:	dao4 .
+*MOT:	bu2 dao4 (.) dao4 le yi1di4 <ma1> [<] hai2 dei3 zhuang1: !
+*CHI:	<ehn:> [>] .
+%cod:	$INTERJ
+*CHI:	ehn: (.) hmmh (.) hh .
+%com:	playing with toys
+%cod:	$INTERJ
+*CHI:	[^ shouting] xxx xxx dao4: .
+*MOT:	dao4 yi1di4 hai2 dei3 zhuang1: .
+%com:	m looking for toys
+*MOT:	hm: .
+%cod:	$INTERJ
+*MOT:	hm: (.) zhei4ge [/] (.) zhei4ge hao3 ba ?
+%cod:	$Q:NQP
+*CHI:	ba1ba1ba2: zhi !
+%cod:	$UNINT
+*MOT:	+^ ehhn +...
+%cod:	$INTERJ
+*CHI:	xxx xxx xxx di4 qu4 .
+%cod:	$UNINT
+*MOT:	hm: .
+%cod:	$INTERJ
+*CHI:	di4di4 .
+*MOT:	bu4 xu3 zuo4 di4di4 !
+*CHI:	+^ <e:nn:ahh> [<] .
+%cod:	$UNINT
+*MOT:	<zuo4 di4di4 bu4 hao3 (.) > [>] eh .
+*CHI:	ao:ou:ooo .
+%cod:	$UNINT
+*CHI:	[^ nonsense] dun2unh:dun:un:dun +...
+%cod:	$UNINT
+*MOT:	ei4: (.) dun1zhe (.) dun1zhe wanr2 (.) dun1zhe wanr2 !
+*MOT:	dun1zhe !
+*MOT:	ei:hh .
+%cod:	$INTERJ
+*CHI:	yao2 yao1 hao2 duo1 duo dian3: di1: .
+%act:	wo3 yao4 zi4che1 zuo4 di4
+%cod:	$UNINT
+*MOT:	ahh ?
+%cod:	$Q:PRMPT
+*CHI:	ai (.) ai:you xxx xxx xxx .
+%cod:	$INTERJ
+*MOT:	0 .
+%act:	laughs
+*CHI:	hai: .
+%cod:	$INTERJ
+*MOT:	+^ shuo1 de shen2me ya ?
+%cod:	$Q:QW
+*CHI:	yao4 dei4 [*] [/] di4 .
+*MOT:	ahh ?
+%cod:	$Q:PRMPT
+*CHI:	di4 .
+*MOT:	di4: ya ?
+%cod:	$Q:NQP
+*CHI:	ahh .
+%cod:	$INTERJ
+*MOT:	zuo4 di4xia4 liang2 bu4 liang2 (.) zuo4 di4xia4 ?
+%cod:	$Q:VNV
+*MOT:	zang1 bu4 zang1 ?
+%cod:	$Q:VNV
+*MOT:	enh: ?
+%cod:	$Q:PRMPT
+*CHI:	enh:hen .
+%cod:	$UNINT
+*MOT:	zhe4 shi4 shen2me [% as she taps toy] ?
+%cod:	$Q:QW
+*CHI:	xiao3 renr2renr2: .
+*MOT:	ni3 shuo1 xiao3: tu4 !
+*CHI:	tu4tu4 .
+*MOT:	hm: .
+%cod:	$INTERJ
+*CHI:	[^ whining] en .
+%cod:	$UNINT
+*MOT:	+^ zhei4ge ne ?
+%cod:	$Q:QP:N
+*CHI:	[^ whining] enh: .
+%cod:	$UNINT
+*MOT:	en .
+%cod:	$INTERJ
+*MOT:	zhei4 shi4 shen2me ?
+%cod:	$Q:QW
+*CHI:	enh: .
+%cod:	$INTERJ
+*MOT:	hm: (.) zhei4 shi4 shen2me ?
+%cod:	$Q:QW
+*CHI:	xiao3 tu4:tu4 .
+*MOT:	zhei4 bu2 shi4 tu4tu4 (.) zhei4 shi4 xiao3: lu4: .
+*CHI:	lu3:lu4 [: lu4lu4] [*] .
+*MOT:	hm: (.) xiao3: lu4 .
+*CHI:	ai2: [% very high pitch] do doo doo doo da .
+%act:	laughs
+%cod:	$UNINT
+*MOT:	zhei4 shi4 shen2me ya ?
+%cod:	$Q:QW
+*CHI:	hm: (.) gou3:gou3: .
+*MOT:	gou3gou3 a ?
+%cod:	$Q:NQP
+*CHI:	enh .
+%cod:	$INTERJ
+*MOT:	shi4 gou3gou3 ma ?
+%cod:	$Q:QP:M
+*CHI:	shi4 de .
+*MOT:	shi4 a (4.) ?
+%com:	m looking for a toy
+%cod:	$Q:NQP
+*MOT:	zhei4ge ne ?
+%cod:	$Q:QP:N
+*MOT:	ni3 shuo1 zhei4 shi4 che1che1: !
+*CHI:	eh (.) qi4 [: qi4che1] [*] +...
+*MOT:	qi4che1 .
+*CHI:	che4che1 [: qi4che1] [*] .
+*MOT:	qi4:che1: !
+*MOT:	zhen4me wanr2 .
+*CHI:	+^ che1: .
+*MOT:	zhen4me wanr2 (.) tui1 .
+*MOT:	ma1 gao4 ni3 .
+*CHI:	du:ao [% as she pushes the car] !
+%cod:	$UNINT
+*MOT:	zhen4me wanr2 (.) ei:ao .
+*MOT:	xxx du:ao (.) u:ao [% pushing car] (4.) !
+%cod:	$UNINT
+*MOT:	ao: (.) enh:enh: .
+%cod:	$INTERJ
+*MOT:	ei:hh (20.) .
+%com:	xxx pushing car
+%cod:	$INTERJ
+*MOT:	hm: (.) zhei4 che1 huai4 le (.) zhei4 che1 (.) shi4 ma ?
+%cod:	$Q:QP:T
+*CHI:	enh .
+%cod:	$INTERJ
+*MOT:	enh (.) zhei4ge ne (27.) ?
+%com:	xxx plays with car
+%cod:	$Q:QP:N
+*MOT:	huai4 le (.) shi4 ba ?
+%cod:	$Q:NQP:T
+*CHI:	enh .
+%cod:	$INTERJ
+*MOT:	hm: .
+%cod:	$INTERJ
+*CHI:	zou3: .
+*MOT:	hm: ?
+%cod:	$Q:PRMPT
+*CHI:	dzou3: [: zou3] [*] .
+*MOT:	zhan4qi3lai2 (.) ni3 lao3 dun1 [/] zuo4zhe !
+*MOT:	dun1zhe !
+*MOT:	dun1qi3lai2 !
+*MOT:	dun1zhe !
+*MOT:	yao4bu4 chong2chong2 yao3 pi4pi4 le .
+*MOT:	kuai4 qi3lai2 !
+*MOT:	kuai4 qi3 !
+*MOT:	zhei4 shi4 shen2me ?
+%cod:	$Q:QW
+*CHI:	yao3 [: xiao3] [*] renr2: .
+*MOT:	xiao3 renr2 a ?
+%cod:	$Q:NQP
+*CHI:	gou3: [*] .
+*CHI:	gou3: [*] .
+*MOT:	gou3 a .
+*CHI:	enh < enh enh> [<] .
+%cod:	$UNINT
+*MOT:	<xiao3 renr2> [>] .
+*CHI:	zou3: .
+*MOT:	xiao3 renr2 .
+*CHI:	ahh: .
+%cod:	$INTERJ
+*MOT:	gan4ma2 ?
+%cod:	$Q:QW
+*CHI:	dou3: [: zou3] [*] .
+*CHI:	[^ fussing] enhm: hh .
+%cod:	$UNINT
+*MOT:	rang4 ta1 zou3 a ?
+%cod:	$Q:NQP
+*CHI:	enh .
+%cod:	$INTERJ
+*MOT:	ta1 mei2 you3 tui3: .
+*MOT:	mei2 you3: tui3 .
+*CHI:	enh4 .
+%cod:	$INTERJ
+*MOT:	ta1 mei2 you3 tui3 .
+%com:	xxx throws ball
+*CHI:	diu4 (9.) .
+%cod:	$UNINT
+*MOT:	huai4 kuai4 qi3lai2 !
+*MOT:	bu4 xu3 zuo4 di4xia4 (.) qi3lai2 !
+%com:	xxx playing with toys
+*MOT:	kuai4 dianr3 !
+*MOT:	[^ slurred] zhei4 shi4 shen2me ya ?
+%cod:	$Q:QW
+*MOT:	zhei4ge ?
+*CHI:	shenr2 [: renr2] [*] .
+*MOT:	zhei4 shi4 xiao3 ya1ya1 (.) en .
+*MOT:	ya1ya .
+*CHI:	ya1ya .
+*MOT:	enh &=laugh .
+%cod:	$INTERJ
+*CHI:	enh .
+%cod:	$INTERJ
+*CHI:	yi1yi: .
+%cod:	$UNINT
+*CHI:	yi1 .
+%act:	playing with toys
+%cod:	$UNINT
+*MOT:	hai4 .
+%com:	xxx plays with toys
+%cod:	$INTERJ
+*CHI:	enh (5.) .
+%cod:	$INTERJ
+*CHI:	dao4: .
+*MOT:	dao4le (.) ni3 bu2 shi4 dao4 le ma ?
+%cod:	$Q:QP:M
+*MOT:	hai2 yao4 ni3 dao4 .
+*CHI:	dao4: (.) ao: .
+*MOT:	ai4yo:u .
+%cod:	$INTERJ
+*CHI:	[^ shouting] ar [!] rah [!] rah [!] !
+%cod:	$UNINT
+*MOT:	hai2 dou1 dao4chu1lai2 ya .
+*CHI:	[^ shouting] ahh: (.) .
+%cod:	$INTERJ
+*CHI:	hhh: hh hh hh hh (.) dao4 .
+*MOT:	hm: .
+%cod:	$INTERJ
+*CHI:	[^ shouting] arh da da: (7.) !
+%act:	dumps bucket of toys
+%cod:	$UNINT
+*MOT:	ennhh: (.) qi3 !
+*MOT:	hm: (.) kuai4 qi3 (.) ai:hh !
+*MOT:	ei4: .
+%cod:	$INTERJ
+*CHI:	enh .
+%cod:	$INTERJ
+*MOT:	enh .
+%cod:	$INTERJ
+*CHI:	enh .
+%cod:	$INTERJ
+*MOT:	ai4yo:uhe4 .
+%cod:	$INTERJ
+*MOT:	ai4yo:uhe .
+%cod:	$INTERJ
+*MOT:	lai2 !
+%com:	sound of toys
+*CHI:	de1 [: che1] [*] .
+*MOT:	hmmn (.) che1 .
+*MOT:	hm: (.) yi1 (10.) .
+%cod:	$INTERJ
+*CHI:	lou2: .
+%cod:	$UNINT
+*CHI:	lou2: (10.) .
+%act:	xxx playing with toys
+%cod:	$UNINT
+*CHI:	mao2mao1: [: xiong2mao1] [*] .
+*MOT:	hm: (.) mao1mao1 (.) na4 shi4 xiong2mao1 .
+*MOT:	ahh (5.) .
+%com:	m winds up a green plastic animal
+%cod:	$INTERJ
+*CHI:	oo oohh: oo oohh: .
+%cod:	$UNINT
+*MOT:	hm: ?
+%cod:	$Q:PRMPT
+*CHI:	aohh .
+%cod:	$INTERJ
+*MOT:	xiong2mao1 (.) <xiong2 [/] (.) xiong1mao1> [<] .
+*CHI:	< a hh: a hh: ahh:> [>] .
+%cod:	$UNINT
+*CHI:	hh (.) dai4 !
+*MOT:	dai4 a ?
+%cod:	$Q:NQP
+*MOT:	zhei4 mei2 you3 shengr2 le (.) dai4bu4liao3 le .
+*MOT:	mei2 shengr2 le .
+*MOT:	hm: (.) qu4 ba !
+*CHI:	mao2mao1: [*] a .
+*MOT:	hm: (.) mao1mao1 .
+*CHI:	eng mao1:mao1: .
+*CHI:	[^ quickly] mao1mao1 .
+*MOT:	hm: .
+%cod:	$INTERJ
+*CHI:	zhuang2 ni3 .
+%cod:	$UNINT
+*MOT:	ai4you2:he .
+%cod:	$INTERJ
+*CHI:	ei:hh .
+%cod:	$INTERJ
+*MOT:	+^ zher4 ne (4.) .
+*CHI:	yao3: ou: .
+*MOT:	hm: (.) yao3 .
+*CHI:	ra da4 !
+%cod:	$UNINT
+*MOT:	hm: (5.) .
+%com:	xxx playing with toys
+%cod:	$INTERJ
+*MOT:	ni3 kan4 zhei4ge !
+*MOT:	[^ m winds up toy] ni3 kan4 !
+*MOT:	kan4 zhei4 shi4 <shen2me> [<] ?
+%cod:	$Q:QW
+*CHI:	<enh: enh> [>] .
+%cod:	$INTERJ
+*MOT:	kan4 zhei4 shi4 shen2me ?
+%cod:	$Q:QW
+*MOT:	<kan4 zhei4> [<] ?
+*MOT:	(.) yao1 +/.
+*CHI:	+^ <enh:enh> [>] .
+%cod:	$INTERJ
+*MOT:	0 .
+%act:	laughs
+*CHI:	ai:hhhh (.) zou3: .
+*CHI:	hmnmh ei ou dou4 [*] ei a dou4 a .
+%cod:	$INTERJ
+*MOT:	hm: .
+%cod:	$INTERJ
+*CHI:	ei dou2 dou1 dao4 (7.) !
+%cod:	$UNINT
+*MOT:	0 .
+%act:	laughs softly
+*MOT:	zher4 (.) ning3 zher4 !
+*MOT:	xixi ning3 zher4 !
+*MOT:	ning3 zher4 !
+*MOT:	ning3 zher4 (.) hm: (14.) !
+%com:	m winds up the toy and lets it go , then xxx plays with it
+*CHI:	ai:hh .
+%cod:	$INTERJ
+*MOT:	you4 zuo4 di4xia4 (.) yi4huir2 shenr1 shang4 you4 dou1 zang1:le .
+*MOT:	qiao2qiao2 (.) qiao2qiao2 !
+*MOT:	qiao2qiao2 (.) zang1le ba ?
+%cod:	$Q:NQP:T
+*MOT:	kuai4 qi3lai2 ba: !
+*MOT:	ehh (.) shenr1 shang4 dou1 zang1le !
+*MOT:	ei:hh (.) ehh .
+%cod:	$INTERJ
+*MOT:	ma1ma gei3 ni3 zhei4ge .
+*MOT:	ni3 bie2 lao3 na2: ta1 (.) ahh (12.) !
+%com:	xxx plays with toys
+*CHI:	en:ghm (.) dou3: [: zou3] [*] (.) en:ghm ehh (.) dzo:u3: [*] .
+*MOT:	ehh (.) zou3 a (4.) .
+%com:	m winds up toy again , lets it go
+*CHI:	dou3 [: zou3] [*] .
+*CHI:	ehh (.) dzo:u3: [: zou3] [*] (12.) .
+*MOT:	hm: .
+%cod:	$INTERJ
+*CHI:	hh .
+%cod:	$INTERJ
+*MOT:	gan4ma2 ne ?
+%cod:	$Q:QW
+*MOT:	gan4ma2 ?
+%cod:	$Q:QW
+*CHI:	+^ enhm (.) enh .
+%cod:	$INTERJ
+*MOT:	ahh (.) zen3me la ?
+%cod:	$Q:QW
+*CHI:	0 .
+%act:	xxx looks behind her through her legs , then squats and pees on the
+	floor
+*CHI:	mei2you3 a: .
+*MOT:	+^ ai4 .
+%cod:	$INTERJ
+*MOT:	ni3: you4: (11.) .
+%com:	m slaps xxx then goes out to get a mop from the balcony
+*MOT:	kuai4 qi3lai2 !
+*MOT:	mei2 xiu1 ba ?
+%cod:	$Q:NQP
+*MOT:	hm: (41.) ?
+%com:	xxx playing with toys
+%cod:	$Q:PRMPT
+*MOT:	hh: .
+%cod:	$INTERJ
+*MOT:	hhn .
+%cod:	$INTERJ
+*MOT:	hhh (4.) .
+%cod:	$INTERJ
+*CHI:	hh (.) zou3 .
+*MOT:	zou3: a ?
+%cod:	$Q:NQP
+*CHI:	zhe4: .
+*CHI:	zhe: [!] .
+%cod:	$UNINT
+*MOT:	0 (7.) .
+%com:	laughs
+*CHI:	hnn (.) zou3: .
+*MOT:	eh (.) (.) zou3 (1.2) .
+*CHI:	hnn .
+%cod:	$INTERJ
+*MOT:	zou3le .
+%com:	xxx plays with toy
+*CHI:	zou3: .
+*MOT:	hm: [^ toy falls on ground] ai4you2: .
+%cod:	$INTERJ
+*CHI:	ai4:you3: (9.) .
+%com:	m picks up toy , winds it up , and lets it go
+%cod:	$INTERJ
+*MOT:	hm: (18.) .
+%cod:	$INTERJ
+*MOT:	bie2 ti1 ya !
+*CHI:	ehn: ?
+%cod:	$Q:PRMPT
+*MOT:	ti1 ta1 gan4ma2 a ?
+%cod:	$Q:QW
+*CHI:	ehn .
+%cod:	$INTERJ
+*CHI:	gou3: [: zou3] [*] .
+*MOT:	ehh (..) .
+%com:	m winds toy and sets it off
+%cod:	$INTERJ
+*CHI:	ma1ma1: .
+%cod:	$VOC
+*MOT:	ai4: .
+%cod:	$INTERJ
+*CHI:	[^ xxx runs to m] en:ghm .
+%cod:	$INTERJ
+*MOT:	qu4 wan2r ba !
+*CHI:	+^ e:n .
+%cod:	$INTERJ
+*MOT:	+^ na2 zhei4ge gan4ma2 (.) na2 zhei4ge ?
+%cod:	$Q:QW
+*CHI:	ehn: ?
+%cod:	$Q:PRMPT
+*MOT:	na2 zhei4ge gan4ma2 ya ?
+%cod:	$Q:QW
+*CHI:	yao4shi .
+*MOT:	yao4shi a (56.) ?
+%com:	laughs; m walks into kitchen then comes back just as keys fall on
+	floor
+%cod:	$Q:NQP
+*MOT:	ai4you2: .
+%cod:	$INTERJ
+*CHI:	+^ ai4you2 (.) (.) &=laugh ai:hh hai .
+%cod:	$INTERJ
+*MOT:	+^ <zen3me> [<] la ?
+%cod:	$Q:QW
+*CHI:	< aihh> [>] .
+%cod:	$INTERJ
+*CHI:	hh (.) sden:g2 [: teng2] [*] .
+*MOT:	wo3 kan4kan4 a .
+*MOT:	ehh .
+%cod:	$INTERJ
+*CHI:	enh (.) enh .
+%cod:	$INTERJ
+*MOT:	+^ nei4ge (.) nei4ba3 yao4shi shi4 kai1 chou1ti de .
+*MOT:	nei4 huang2 +...
+*MOT:	ehh (.) tong3se4 (.) zhei4ge .
+*MOT:	zhei4ge (12.) .
+%com:	m helping xxx find the right key to open the drawer
+*CHI:	ai:hh .
+%cod:	$INTERJ
+*CHI:	bu4 [: bu2] [*] dui4: .
+*CHI:	bu4 [*] dui4: [% xxx jumping up and down] !
+*MOT:	hm: (.) kai1 (.) kai1 le (6.) .
+%com:	m shows her that it is unlocked
+*CHI:	[^ excited] ei4you2: enh: hh .
+%cod:	$INTERJ
+*MOT:	+^ yao1 +...
+%act:	laughs
+%cod:	$UNINT
+*CHI:	ai:hh .
+%cod:	$INTERJ
+*CHI:	bei: .
+%cod:	$UNINT
+*MOT:	hm: .
+%cod:	$INTERJ
+*CHI:	hnn (.) bu4: [*] [!] dui4: [!] hhh a .
+%com:	xxx jumping up and down again
+*MOT:	ni3 kai1 a (.) ni3 zi4ji3 kai1 ya !
+*MOT:	ni3 zi4ji3 zhe4mezhe kai1 !
+*MOT:	zhe4mezhe !
+*MOT:	hm: .
+%com:	m shows her
+%cod:	$INTERJ
+*CHI:	hm: (.) bu4: [*] [!] dui4: [!] .
+*MOT:	hm: (.) .
+%cod:	$INTERJ
+*MOT:	kai1 +...
+*CHI:	hh (.) bu4 [*] dui4: .
+*MOT:	zhei4 bu2 shi4 kai1 le ma ?
+%cod:	$Q:QP:M
+*MOT:	bu2 shi4 gei3 ni3 cha1shang4 le ma ?
+%cod:	$Q:QP:M
+*CHI:	kai1: .
+*MOT:	cha1shang4 ni3 zi4ji3 kai1: !
+*MOT:	zi4ji3 kai1: !
+*CHI:	yao:ou ou .
+%cod:	$UNINT
+*CHI:	yao: .
+%cod:	$UNINT
+*CHI:	ya: [!] !
+%cod:	$UNINT
+*MOT:	0 .
+%act:	laughs softly to herself
+*CHI:	da: nie2 (9.) .
+%act:	xxx pushing chair and ball together
+%cod:	$UNINT
+*CHI:	qiu2 .
+*CHI:	xxx xxx xxx .
+%cod:	$UNINT
+*CHI:	a1yi2 .
+*CHI:	xxx xxx pai1: qiu2: .
+*CHI:	ma1ma .
+%cod:	$VOC
+*MOT:	hm: a qiu2: a .
+*CHI:	zou3 (.) zou3: (1.2) .
+%com:	xxx pushing chair and ball
+*MOT:	kan4zhe (.) bie2 ya1 a1yi2 jiao3: !
+*CHI:	uh: oow woo:h oowh: .
+%cod:	$UNINT
+*CHI:	oow:oow: woo: oow:woo .
+%cod:	$UNINT
+*MOT:	hei4 (.) nei4 qiu2qiu2 ne ?
+%cod:	$Q:QP:N
+*MOT:	hei4 ?
+*MOT:	qiu2 ne: ?
+%cod:	$Q:QP:N
+*MOT:	qiu2: ne: ?
+%cod:	$Q:QP:N
+*MOT:	qiu2 ne (.) ni3 nei4 qiu2 ne ?
+%cod:	$Q:QP:N
+*MOT:	hai4 (.) luan4 .
+*MOT:	bie2 tui1 nei4ge !
+*CHI:	oow:woo oowhn:un .
+%act:	xxx still pushing chair , laughing
+%cod:	$UNINT
+*MOT:	hai4 hai4ei4 ei4 ei4 (.) ni3 nei4 qiu2 ne ?
+%cod:	$Q:QP:N
+*MOT:	ni3 nei4 qiu2: ne ?
+%cod:	$Q:QP:N
+*MOT:	qiu2 nar3 qu4 le [<] ?
+%cod:	$Q:QW
+*CHI:	<ahh: > [>] ?
+%cod:	$Q:PRMPT
+*MOT:	qiu2 ne ?
+%cod:	$Q:QP:N
+*MOT:	nar3 ne ?
+%cod:	$Q:QW
+*CHI:	hm: ?
+%cod:	$Q:PRMPT
+*MOT:	ni3 gei3 wo3 zhao3qu4 (.) wo3 chou3chou3 zai3 nar3 ne ?
+%cod:	$Q:QW
+*CHI:	dar4 [: zher4] [*] .
+*MOT:	ahh (.) qiu2 ne ?
+%cod:	$Q:QP:N
+*MOT:	zhei4 shi4 <nei4> [<] qiu2 a (.) zhei4 shi4 qiu2 ma ?
+%cod:	$Q:QP:M
+*CHI:	< da4:> [>] .
+%cod:	$UNINT
+*CHI:	qiu2 +...
+%cod:	$UNINT
+*MOT:	zhui4 ni3 [% as she throws the ball] .
+%cod:	$UNINT
+*CHI:	ou:ounh hh .
+%cod:	$UNINT
+*MOT:	qi3lai2: !
+*MOT:	zhan4qi3lai2: (8.) !
+*CHI:	yi2: wa4: !
+%cod:	$UNINT
+*MOT:	+^ ai4you2:he .
+%com:	laughs
+%cod:	$INTERJ
+*CHI:	xxx xxx xxx xxx .
+%cod:	$UNINT
+*CHI:	hhh hhh hhh hhh .
+%cod:	$UNINT
+*CHI:	pi: .
+%cod:	$UNINT
+*MOT:	ai4you2:he .
+%cod:	$INTERJ
+*MOT:	ta1 you4 [/] gui4 [/] you4 gui4 di4xia4 .
+*MOT:	qi3lai2 !
+*CHI:	a:hh (.) ha (4.) .
+%cod:	$INTERJ
+*CHI:	bu: ya !
+%cod:	$UNINT
+*CHI:	ai:aihh (4.) .
+%com:	xxx crawling on floor , playing with ball
+%cod:	$INTERJ
+*MOT:	tsch hai4 (.) zen3me zou3 lu4 ne ?
+%cod:	$Q:QW
+*MOT:	xixi .
+%cod:	$VOC
+*MOT:	zhan4qi3lai2 !
+*MOT:	zhan4qi3lai2 (10.) !
+*CHI:	ahh ?
+%cod:	$Q:PRMPT
+*MOT:	wo3 yao4 (.) ni3 (.) zhan4qi3lai2 .
+*MOT:	yi1 (.) er4 (.) zhan4: !
+*CHI:	yi4: ding4 .
+%cod:	$UNINT
+*MOT:	ai4you: .
+%cod:	$INTERJ
+*CHI:	ba3 .
+%cod:	$UNINT
+*MOT:	+^ hm: (.) qu4 jian3qu4 !
+*MOT:	jian3qu4 (9.) !
+*CHI:	qiu2: (14.) .
+%com:	xxx throws ball at m
+*CHI:	enh .
+%cod:	$INTERJ
+*MOT:	+^ hm: .
+%cod:	$INTERJ
+*CHI:	[^ high pitch] hm: .
+%com:	xxx running around after ball
+%cod:	$INTERJ
+*CHI:	hh hh [=! panting] (24.) .
+%cod:	$UNINT
+*CHI:	yi2 [% xxx throws ball at m] .
+%cod:	$INTERJ
+*MOT:	ai4you2:he .
+%cod:	$INTERJ
+*CHI:	ehnehn .
+%cod:	$INTERJ
+*MOT:	tsch qu4: !
+*CHI:	0 .
+%act:	laughs
+*MOT:	tsch qu4: !
+*MOT:	qu4 (.) qu4 (.) qu4 !
+*MOT:	[^ whispering] hai4 (.) qi3lai2: (8.) !
+*CHI:	ai4dou4: !
+%cod:	$UNINT
+*MOT:	0 .
+%act:	laughs
+*MOT:	qu4 !
+*MOT:	qu4 !
+*CHI:	qu4 !
+%com:	throws ball
+*CHI:	dejun: .
+%cod:	$UNINT
+*MOT:	zhan4qi3lai2 zou3 lu4: !
+*CHI:	ehh:eh < xxx xxx > [<] xxx xxx xxx xxx xxx .
+%cod:	$UNINT
+*MOT:	<chen2xi1: a> [>] .
+%cod:	$VOC
+*MOT:	zhan4qi3lai2 zou3: lu4: !
+*CHI:	ehh:eh ahh: deng:en ahh:a ahh deng:ahh:deng .
+%cod:	$UNINT
+*CHI:	ai:hh .
+%act:	xxx throws ball at m
+%cod:	$UNINT
+*CHI:	da3: ni3 .
+*MOT:	da3 ni3 .
+*CHI:	da3 ni3: (9.) .
+%com:	xxx running around
+*CHI:	ai:hh bing bing bing ber eh zher qiu qiu ahh .
+%cod:	$UNINT
+*MOT:	da3 ni3 .
+*CHI:	a qu4: .
+%act:	both m and xxx laugh
+%cod:	$UNINT
+*MOT:	a: (.) da3 ni3 .
+*CHI:	ai4you2: .
+%cod:	$INTERJ
+*CHI:	ou deng2: [: teng2] [*] deng2: [*] .
+*CHI:	de4 .
+%act:	xxx kneeling on ground again
+%cod:	$UNINT
+*MOT:	tsch <lao3> [<] gui4 di4xia4 a .
+*CHI:	< eng:> [>] .
+%cod:	$INTERJ
+*MOT:	zhan4qi3lai2 !
+*MOT:	qiao2 ni3 nei4 shou3 dou1 hei1 le ba (.) lao3 gui4 di4xia4 (27.) !
+*MOT:	[^ laughing , soft voice] ni3 gan4ma2 ni3 ne (4.) ?
+%cod:	$Q:QW
+*CHI:	ai4:you2: .
+%cod:	$INTERJ
+*CHI:	ma1ma1: .
+%cod:	$VOC
+*MOT:	ai4: (15.) .
+%com:	xxx still pushing chair
+%cod:	$INTERJ
+*INV:	xixi ya (.) guo4lai2 !
+*INV:	<guo4lai2> [<] (.) wo3 kan4kan4 ni3de xiao3 bei4bao: a !
+*MOT:	<kuai4 lai2> [>] !
+%com:	laughs; end of visit
+@End
